@@ -215,6 +215,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [tweetinvi](https://github.com/linvi/tweetinvi/tree/tweetinvi.netcore) - Intuitive .NET C# library to access the Twitter REST and STREAM API.
 
 ### Security
+* [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
 * [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
 * [Security](https://github.com/aspnet/Security) - Middleware for security and authorization of web apps.
 

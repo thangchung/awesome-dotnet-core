@@ -85,6 +85,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Application Templates
 * [ASP.NET MVC Boilerplate](https://github.com/RehanSaeed/ASP.NET-MVC-Boilerplate) - A professional ASP.NET MVC template for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.
+* [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - A real-world web application boilerplate and tooling for creating [single-page web applications](https://en.wikipedia.org/wiki/Single-page_application) (SPAs) oriented towards progressive enhancement design and component-based UI architecture.  It is built upon best of breed technologies including ASP.NET Core, React, Babel, Webpack, CSS Modules, React Hot Loader and more.
 
 ### Authentication and Authorization
 * [Identity](https://github.com/aspnet/Identity) - ASP.NET Core Identity is the membership system for building ASP.NET Core web applications, including membership, login, and user data.

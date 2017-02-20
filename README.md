@@ -105,7 +105,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [openiddict](https://github.com/openiddict/openiddict-core) - Easy-to-use OpenID Connect server for ASP.NET Core.
 * [stormpath-sdk](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core.
 * [stuntman](https://github.com/ritterim/stuntman) - Library for impersonating users during development leveraging ASP.NET Identity.
-* [Gluu](https://www.gluu.org/) - Offers Commercial OAuth 2.0 client software called [Oxd](https://oxd.gluu.org/) with different programming languages including [Csharp](https://github.com/GluuFederation/oxd-csharp). Demo [.Net](https://oxd.gluu.org/docs/2.4.4/framework/net/) application with [CSharp-Oxd Library](https://oxd.gluu.org/docs/2.4.4/libraries/csharp/).
+* [oxd](https://oxd.gluu.org) - Commercial OAuth 2.0 and OpenID Connect client software written by [Gluu](https://www.gluu.org/) that includes plugins for popular applications and libraries including [.Net](https://oxd.gluu.org/docs/2.4.4/framework/net/) and [Csharp](https://github.com/GluuFederation/oxd-csharp).
 
 ### Build Automation
 * [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system. [http://cakebuild.net](http://cakebuild.net).

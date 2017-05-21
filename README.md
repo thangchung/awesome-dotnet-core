@@ -35,6 +35,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Mathematics](#mathematics)
   * [Misc](#misc)
   * [ORM](#orm)
+  * [Protocols](#protocols)
   * [Profiling](#profiling)
   * [Queue and Messaging](#queue-and-messaging)
   * [Scheduler and Job](#scheduler-and-job)
@@ -262,6 +263,10 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM.
 * [SqlFu](https://github.com/sapiens/SqlFu) - Fast and versatile Micro-ORM.
 * [yessql](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
+
+### Protocols
+* [FluentFTP](https://github.com/hgupta9/FluentFTP) - An FTP and FTPS client for .NET & .NET Core, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Automatic directory listing parsing, File hashing/checksums, File permissions/CHMOD, FTP proxies, UTF-8 support, Async/await support and more.
+* [CoreFTP](https://github.com/sparkeh9/CoreFTP) - A simple FTP library for .NET Core
 
 ### Profiling
 * [Glimpse](http://getglimpse.com) - Lightweight, open-source, real-time diagnostics and insights profiler for .NET. 

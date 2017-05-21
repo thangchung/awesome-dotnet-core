@@ -265,7 +265,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [yessql](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
 
 ### Protocols
-* [FluentFTP](https://github.com/hgupta9/FluentFTP) - An FTP and FTPS client for .NET & .NET Core, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Automatic directory listing parsing, File hashing/checksums, File permissions/CHMOD, FTP proxies, UTF-8 support, Async/await support and more.
+* [FluentFTP](https://github.com/hgupta9/FluentFTP) - A full-featured FTP and FTPS client for .NET & .NET Core
 * [CoreFTP](https://github.com/sparkeh9/CoreFTP) - A simple FTP library for .NET Core
 
 ### Profiling

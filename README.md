@@ -465,7 +465,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Channel9](https://channel9.msdn.com)
  * [ASP.NET Monsters](https://channel9.msdn.com/Series/aspnetmonsters)
 * [Visual Studio](https://www.youtube.com/user/VisualStudio/channels)
-* [.NET World](https://www.youtube.com/channel/UClW5uIyHKPhfSEloQxn7b0Q)
 
 ## Podcasts
 * [.NET Rocks](https://www.dotnetrocks.com)
@@ -475,6 +474,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ## Community
 * [ASP.NET](https://forums.asp.net)
 * [.NET Foundation](http://forums.dotnetfoundation.org)
+* [.NET World](https://www.facebook.com/dotnetworld.org/)
 * [Channel9](https://channel9.msdn.com/Forums)
 * Stack Overflow
   *  [.NET Core](https://stackoverflow.com/questions/tagged/.net-core)

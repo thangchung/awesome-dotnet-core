@@ -24,6 +24,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
   * [Database Drivers](#database-drivers)
+  * [Date And Time](#date-and-time)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Functional Programming](#functional-programming)
   * [Graphics](#graphics)
@@ -174,6 +175,9 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [ravendb](https://github.com/ayende/ravendb/tree/v4.0) - Linq enabled document database for .NET.
 * [RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver) - C#/.NET RethinkDB driver with 100% ReQL API coverage.
 * [tarantool-csharp](https://github.com/progaudi/tarantool-csharp) - .NET CLI client for Tarantool NoSql database.
+
+### Date And Time
+* [FluentDateTime](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
 
 ### E-Commerce and Payments
 * [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - Super simple ecommerce system built on .NET Core.
@@ -363,6 +367,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET.
 * [FluentAssertions](https://github.com/dennisdoomen/FluentAssertions) - Set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 * [moq.netcore](https://github.com/Moq/moq4) - Most popular and friendly mocking framework for .NET.
+* [Automoq](https://github.com/darrencauthon/AutoMoq) - AutoMoqer is an "auto-mocking" container that creates objects for you. Just tell it what class to create and it will create it.
 * [MSpec](https://github.com/machine/machine.specifications) - Popular testing framework for writing BDD-style tests.
 * [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - Fluent testing
   framework for ASP.NET Core MVC.

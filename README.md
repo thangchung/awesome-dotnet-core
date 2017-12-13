@@ -446,6 +446,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [redux.NET](https://github.com/GuillaumeSalles/redux.NET) - Predictable state container for .NET apps. Inspired by [https://github.com/reactjs/redux](https://github.com/reactjs/redux).
 
 ### Web Socket
+* [NetCoreStack.WebSockets](https://github.com/NetCoreStack/WebSockets) - WebSocket library to text and binary messaging for real-time applications.
 * [SignalR Server](https://github.com/aspnet/signalr) - Real-time web functionality for web apps, including server-side push.
 * [WampSharp](https://github.com/Code-Sharp/WampSharp) - C# implementation of [The Web Application Messaging Protocol](http://wamp-proto.org/) - Protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
 

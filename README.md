@@ -87,6 +87,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [graphiql-dotnet](https://github.com/JosephWoodward/graphiql-dotnet) - GraphiQL middleware for ASP.NET Core.
   * [graphql-dotnetcore](https://github.com/mkmarek/graphql-dotnetcore) - GraphQL for .NET Core based on [https://github.com/graphql/graphql-js](https://github.com/graphql/graphql-js).
   * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
+  * [graphql-schemaGenerator](https://github.com/holm0563/graphql-schemaGenerator) - This uses GraphQL for .NET and wraps it to easily generate a graph ql schema based on c# models.
   * [FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL) - FSharp implementation of Facebook GraphQL query language [https://fsprojects.github.io/FSharp.Data.GraphQL](https://fsprojects.github.io/FSharp.Data.GraphQL).
   * [parser](https://github.com/graphql-dotnet/parser) - A lexer and parser for GraphQL in .NET.
 * [halcyon](https://github.com/visualeyes/halcyon) - HAL implementation for ASP.NET.

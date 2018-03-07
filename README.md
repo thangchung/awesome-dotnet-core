@@ -46,6 +46,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Networking](#networking)
   * [Misc](#misc)
   * [ORM](#orm)
+  * [OpenXml](#openxml)
   * [Profiling](#profiling)
   * [Queue and Messaging](#queue-and-messaging)
   * [Query Builders](#query-builders)
@@ -369,6 +370,10 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### Networking
 * [CurlThin](https://github.com/stil/CurlThin) - Lightweight cURL binding library for C# with support for multiple simultaneous transfers through curl_multi interface.
 * [NETStandard.HttpListener](https://github.com/StefH/NETStandard.HttpListener) - HttpListener for .NET Core (NETStandard).
+
+### OpenXml
+
+* [HtmlToOpenXml](https://github.com/onizet/html2openxml) - Convert simple or advanced HTML to plain OpenXml components.
 
 ### ORM
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - Familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.

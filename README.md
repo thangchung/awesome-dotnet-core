@@ -672,7 +672,8 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [The little ASP.NET Core](https://www.recaffeinate.co/book)
 
 ## Videos
-* [Channel9](https://channel9.msdn.com)
+* [Channel9](https://channel9.msdn.com) - MSDN
+* [Channel9](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g) - YouTube
  * [ASP.NET Monsters](https://channel9.msdn.com/Series/aspnetmonsters)
 * [Visual Studio](https://www.youtube.com/user/VisualStudio/channels)
 

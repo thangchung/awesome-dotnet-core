@@ -225,9 +225,10 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### Compilers, Transpilers and Languages
 * [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 * [fparsec](https://github.com/stephan-tolksdorf/fparsec) - A parser combinatory library for F# and C#.
-* [roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
+* [Mond](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
 * [peachpie](https://github.com/peachpiecompiler/peachpie) - Open-source PHP compiler to .NET.
 * [Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow.
+* [roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
 * [Sprache](https://github.com/sprache/Sprache) - Tiny C# Monadic Parser Framework.
 
 ### Cryptography

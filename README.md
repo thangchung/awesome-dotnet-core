@@ -634,6 +634,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 2.0 application with DDD, CQRS and Event Sourcing.
 * [eShopOnContainers](https://github.com/dotnet/eShopOnContainers) - Microservices Architecture and Containers based Reference Application.
 * [guidance-identity-management-for-multitenant-apps](https://github.com/Azure-Samples/guidance-identity-management-for-multitenant-apps) - How to manage user identities in a multitenant app on Microsoft Azure, using Azure Active Directory for authentication.
+* [IdeaShare Angular-WebAPI](https://github.com/shakenovdev/Angular-ASP.NetCoreWebAPI-MySQL-CRUD-project) - Web App built on Angular 5 that interacts with WebAPI which has MySQL database. [Demo](http://ideashareapp.azurewebsites.net)
 * [magazine-website](https://github.com/thangchung/magazine-website) - Magazine website (using .NET Core, ASP.NET Core, EF Core) with DDD, CQRS, microservices, asynchronous programming applied.
 * [MegaMine](https://github.com/Nootus/MegaMine) - Open source mining solution that helps miners in extracting Gold, Quartz, Granite etc. This solution is built using ASP.NET Core and AngularJS utilizing multiple light weight components in a Microservices way.
 * [minicompiler](https://github.com/ealsur/minicompiler) - Minification, bundling and compiling sample.
@@ -644,7 +645,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [PhotoGallery](https://github.com/chsakell/aspnet5-angular2-typescript) - Cross-platform Single Page Applications with ASP.NET Core, Angular 2 & TypeScript [http://wp.me/p3mRWu-11L](http://wp.me/p3mRWu-11L).
 * [Practical ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) - A daily updated micro samples of ASP.NET Core features and facilities.
 * [JustA.ML](https://github.com/mustakimali/JustA.ML) - A web application that lets you share files/URL/text between your devices written in ASP.NET Core 2.0. Open source, live at [https://justa.ml](https://justa.ml)
-* [IdeaShare Angular-WebAPI](https://github.com/shakenovdev/Angular-ASP.NetCoreWebAPI-MySQL-CRUD-project) - Web App built on Angular 5 that interacts with WebAPI which has MySQL database. [Demo](http://ideashareapp.azurewebsites.net)
 
 ## Articles
 * Basic knowledge

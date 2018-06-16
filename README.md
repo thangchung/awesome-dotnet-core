@@ -350,7 +350,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 * [Restbus](http://restbus.org) - Messaging library for RabbitMq.
 * [Tossit](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
-* [Weapsy.CQRS](https://github.com/Weapsy/Weapsy.CQRS) - CQRS and Event Sourcing library for .NET Core. Supported database providers for the Event Store are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite (more to come).
+* [OpenCQRS](https://github.com/lucabriguglia/OpenCQRS) - CQRS and Event Sourcing library for .NET Core. Supported database providers for the Command and Event Store are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
 
 ### Scheduler and Job
 * [Chroniton.NetCore](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules.

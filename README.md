@@ -375,6 +375,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages.
 
 ### Mail
+* [FluentEmail](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET and .NET Core
 * [MailBody](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
 * [MailKit](https://github.com/jstedfast/MailKit) - Cross-platform .NET library for IMAP, POP3, and SMTP.
 * [MailMergeLib](https://github.com/axuno/MailMergeLib) - SMTP mail client library which provides comfortable mail merge capabilities for text, inline images and attachments, as well as good throughput and fault tolerance for sending mail messages.

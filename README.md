@@ -129,6 +129,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET. 
 * [microdot](https://github.com/gigya/microdot) - An open source .NET microservices framework.
 * [Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .NET and Mono.
+* [NSwag](https://github.com/RSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript.
 * [opencvsharp](https://github.com/shimat/opencvsharp) - .NET Framework wrapper for OpenCV.
 * [orleans](https://github.com/dotnet/orleans) - Framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
 * [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Ultra fast distributed actors for Golang and C# [http://proto.actor](http://proto.actor).

@@ -165,6 +165,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [stuntman](https://github.com/ritterim/stuntman) - Library for impersonating users during development leveraging ASP.NET Identity.
 
 ### Blockchain
+* [btcpayserver](https://github.com/btcpayserver/btcpayserver) - A cross platform, self-hosted server compatible with Bitpay API.
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 * [NBlockchain](https://github.com/danielgerlag/NBlockchain) - .NET standard library for building blockchain enabled applications
 * [NEO](https://github.com/neo-project/neo) - Open Network For Smart Economy.

@@ -8,6 +8,10 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
+#### Finding .NET Core packages in the NuGet Gallery
+
+It's not possible to browse or search the NuGet Gallery for packages compatible with .NET Core. If you'd find this useful, please vote for the feature request at [NuGet/NuGetGallery#3098](https://github.com/NuGet/NuGetGallery/issues/3098).
+
 ## Contents
 
 * [General](#general)

@@ -131,6 +131,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Halibut](https://github.com/OctopusDeploy/Halibut) - A secure communication stack for .NET using JSON-RPC over SSL.
 * [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET. 
 * [microdot](https://github.com/gigya/microdot) - An open source .NET microservices framework.
+* [MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects.
 * [Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .NET and Mono.
 * [opencvsharp](https://github.com/shimat/opencvsharp) - .NET Framework wrapper for OpenCV.
 * [orleans](https://github.com/dotnet/orleans) - Framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.

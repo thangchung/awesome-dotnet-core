@@ -685,6 +685,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [eShopOnContainers](https://github.com/dotnet/eShopOnContainers) - Microservices Architecture and Containers based Reference Application.
 * [GenVue](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
 * [guidance-identity-management-for-multitenant-apps](https://github.com/Azure-Samples/guidance-identity-management-for-multitenant-apps) - How to manage user identities in a multitenant app on Microsoft Azure, using Azure Active Directory for authentication.
+* [IdeaShare Angular-WebAPI](https://github.com/shakenovdev/Angular-ASP.NetCoreWebAPI-MySQL-CRUD-project) - Web App built on Angular 5 that interacts with WebAPI which has MySQL database. [Demo](http://ideashareapp.azurewebsites.net)
 * [magazine-website](https://github.com/thangchung/magazine-website) - Magazine website (using .NET Core, ASP.NET Core, EF Core) with DDD, CQRS, microservices, asynchronous programming applied.
 * [MegaMine](https://github.com/Nootus/MegaMine) - Open source mining solution that helps miners in extracting Gold, Quartz, Granite etc. This solution is built using ASP.NET Core and AngularJS utilizing multiple light weight components in a Microservices way.
 * [minicompiler](https://github.com/ealsur/minicompiler) - Minification, bundling and compiling sample.

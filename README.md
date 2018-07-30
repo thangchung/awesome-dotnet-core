@@ -280,6 +280,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM.
 * [SqlFu](https://github.com/sapiens/SqlFu) - Fast and versatile Micro-ORM.
 * [yessql](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
+* [SmartSql](https://github.com/Ahoo-Wang/SmartSql) - SmartSql = MyBatis + Cache(Memory | Redis) + ZooKeeper + R/W Splitting +Dynamic Repository ....
 
 ### Profiling
 * [Glimpse](http://getglimpse.com) - Lightweight, open-source, real-time diagnostics and insights profiler for .NET. 

@@ -411,6 +411,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Mathematics
 * [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework.
+* [AutoDiff](https://github.com/alexshtf/autodiff) - A library that provides fast, accurate and automatic differentiation (computes derivative / gradient) of mathematical functions.
 
 ### Misc
 * [AdvanceDLSupport](https://github.com/Firwood-Software/AdvanceDLSupport) - Library to improvie P/Invoke-ing native code. Interact with native objects as if they were first class objects.

@@ -789,6 +789,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [.NET Foundation](http://forums.dotnetfoundation.org)
 * [Channel9](https://channel9.msdn.com)
 * [Slack](http://tattoocoder.com/aspnet-slack-sign-up)
+* [BuiltWithDot.Net](https://builtwithdot.net)
 * Stack Overflow
   *  [.NET Core](https://stackoverflow.com/questions/tagged/.net-core)
   *  [CoreCLR](https://stackoverflow.com/questions/tagged/coreclr)

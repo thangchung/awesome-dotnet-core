@@ -1,4 +1,4 @@
-Resources/BuiltWithDot.Net - [BuiltWithDot.Net](https://builtwithdot.net)
+Community/BuiltWithDot.Net - [BuiltWithDot.Net](https://builtwithdot.net)
 
 BuiltWithDot.Net is a show & tell community for developers working with .net tech.
  

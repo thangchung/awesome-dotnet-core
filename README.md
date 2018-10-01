@@ -615,6 +615,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Testing
 * [Bogus](https://github.com/bchavez/Bogus) - Simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+* [DataGenerator](https://github.com/loresoft/DataGenerator) - Automatically generate intelligent and realistic test data for an object.
 * [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET.
 * [FluentAssertions](https://github.com/dennisdoomen/FluentAssertions) - Set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 * [GenFu](https://github.com/MisterJames/GenFu) - Library you can use to generate realistic test data.

@@ -444,6 +444,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [datatables](https://github.com/ALMMa/datatables.aspnet/tree/dev) - Microsoft ASP.NET server-side support and helpers for jQuery DataTables.
 * [DinkToPdf](https://github.com/rdvojmoc/DinkToPdf) - C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
 * [Dotnet outdated](https://github.com/jerriep/dotnet-outdated) - A .NET Core global tool to display outdated NuGet packages in a project.
+* [DotNet.Property](https://github.com/loresoft/DotNet.Property) - .NET Core command-line (CLI) tool to update project properties and version numbers on build
 * [Dotnet Script](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
 * [Dotnet Serve](https://github.com/natemcmaster/dotnet-serve) - Simple command-line HTTP server for .NET Core CLI.
 * [Eighty](https://github.com/benjamin-hodgson/Eighty) - A simple HTML generation library

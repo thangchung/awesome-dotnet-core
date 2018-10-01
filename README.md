@@ -525,6 +525,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
  * [MediatR.Extensions.Microsoft.DependencyInjection](https://github.com/jbogard/MediatR.Extensions.Microsoft.DependencyInjection) - MediatR extensions for Microsoft.Extensions.DependencyInjection.
 * [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .Net for sending command, publishing event and request response with pipelines supported.
 * [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - Simple in process mediator for .NET.
+* [MongoDB.Messaging](https://github.com/loresoft/MongoDB.Messaging) - A lightweight pub/sub queue processing library based on MongoDB data store.
 * [MQTTnet](https://github.com/chkr1011/MQTTnet) - MQTTnet is a high performance .NET library for MQTT based communication.
 * [netmq](https://github.com/zeromq/netmq) - 100% native C# implementation of ZeroMQ for .NET.
 * [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) - .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.

@@ -451,6 +451,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - Fast ExpressionTree compiler to delegate.
 * [FluentFTP](https://github.com/robinrodricks/FluentFTP/) - FTP and FTPS client, with extensive FTP commands, SSL/TLS connections, hashing/checksums and more.
 * [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
+* [gremit](https://github.com/skbkontur/gremit) - GrEmit is a library containing different helpers for generating code using Reflection.Emit with the main one being GroboIL - a smart wrapper over ILGenerator.
 * [HdrHistogram.NET](https://github.com/HdrHistogram/HdrHistogram.NET) - High Dynamic Range (HDR) Histogram.
 * [httpclient-interception](https://github.com/justeat/httpclient-interception) - .NET Standard library for intercepting server-side HTTP dependencies.
 * [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.

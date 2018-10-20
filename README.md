@@ -447,6 +447,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [ConsoleTableExt](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .NET console application.
 * [datatables](https://github.com/ALMMa/datatables.aspnet/tree/dev) - Microsoft ASP.NET server-side support and helpers for jQuery DataTables.
 * [DinkToPdf](https://github.com/rdvojmoc/DinkToPdf) - C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
+* [dotnet-env](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files.
 * [DotNet.Glob](https://github.com/dazinator/DotNet.Glob) - A fast globbing library for .NET / .NETStandard applications. Outperforms Regex.
 * [Dotnet outdated](https://github.com/jerriep/dotnet-outdated) - A .NET Core global tool to display outdated NuGet packages in a project.
 * [Dotnet Script](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.

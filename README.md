@@ -403,6 +403,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Autofac](https://github.com/autofac/Autofac) - Addictive .NET IoC container.
 * [Castle.Windsor](https://github.com/castleproject/Windsor) Castle Windsor is a best of breed, mature Inversion of Control container available for .NET.
 * [DryIoc](https://bitbucket.org/dadhi/dryioc) - Fast, small, full-featured IoC Container for .NET.
+* [Foil](https://github.com/moattarwork/foil) - AOP library for IServiceCollection using Castle Dynamic Proxy.
 * [Grace](https://github.com/ipjohnson/Grace) - Grace is a feature rich Dependency Injection Container designed with ease of use and performance in mind.
 * [Inyector](https://github.com/davidrevoledo/Inyector) - Dependency Injection Automation for AspNetCore 
 * [LightInject](https://github.com/seesharper/LightInject) - Ultra lightweight IoC container [http://www.lightinject.net](http://www.lightinject.net).

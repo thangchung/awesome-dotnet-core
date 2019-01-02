@@ -595,6 +595,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [octokit.net](https://github.com/octokit/octokit.net) - GitHub API client library for .NET.
 * [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
 * [PreStorm](https://github.com/jshirota/PreStorm) - Parallel REST Client for ArcGIS Server.
+* [Proxmox VE Client API](https://github.com/EnterpriseVE/eve2pve-api-dotnet) - ProxmoVE Client API .Net C#.
 * [SendGrid-csharp](https://github.com/sendgrid/sendgrid-csharp) - C# client library for using the full SendGrid API.
 * [statsd-csharp-client](https://github.com/Pereingo/statsd-csharp-client) - .NET Standard compatible C# client to interface with Etsy's excellent [statsd](https://github.com/etsy/statsd) server.
 * [tweetinvi](https://github.com/linvi/tweetinvi) - Intuitive .NET C# library to access the Twitter REST and STREAM API.

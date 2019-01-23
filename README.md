@@ -349,7 +349,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [PayPal](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs.
 * [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - Super simple ecommerce system built on .NET Core.
 * [Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs.
-* [GrandNode](https://github.com/grandnode/grandnode) - GrandNode is a functional cross-platform e-commerce solution developed for the most demanding users. You are able to run it on any system - Linux, Windows, Mac. GrandNode supports Docker, so you can install it with Docker for Linux containers. Scalable e-commerce solution which can be adapted in any company independently from company size or industry.
 
 ### Exceptions
 * [Demystifier](https://github.com/benaadams/Ben.Demystifier) - High performance understanding for stack traces (Make error logs more productive).

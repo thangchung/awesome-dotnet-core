@@ -516,7 +516,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [CurlThin](https://github.com/stil/CurlThin) - Lightweight cURL binding library for C# with support for multiple simultaneous transfers through curl_multi interface.
 * [NETStandard.HttpListener](https://github.com/StefH/NETStandard.HttpListener) - HttpListener for .NET Core (NETStandard).
 * [Networker](https://github.com/MarkioE/Networker) - A simple to use TCP and UDP networking library for .NET, designed to be flexible, scalable and FAST.
-
+* [Ngrok.AspNetCore](https://github.com/kg73/NgrokAspNetCore) - An integration with Ngrok to automatically start/stop public facing tunnels for local development. Useful for building webhooks and other public-facing APIs locally
 ### ORM
 * [Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET.
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - Familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.

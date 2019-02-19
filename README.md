@@ -226,6 +226,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 
 ### Bundling and Minification
 * [BundlerMinifier](https://github.com/madskristensen/BundlerMinifier) - Visual Studio extension that let's you configure bundling and minification of JS, CSS and HTML files.
+* [Karambolo.AspNetCore.Bundling](https://github.com/adams85/bundling) - A library which provides run-time bundling and minification features for ASP.NET Core 2 in a similar way the System.Web.Optimization library does for classic ASP.NET.
 * [JavaScriptViewEngine](https://github.com/pauldotknopf/JavaScriptViewEngine) - ASP.NET MVC ViewEngine for rendering markup in a JavaScript environment. Ideal for React and Angular server-side rendering.
 * [Smidge](https://github.com/Shazwazza/Smidge/) - Lightweight runtime CSS/JavaScript file minification, combination, compression & management library for ASP.NET Core.
 * [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.

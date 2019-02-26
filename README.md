@@ -45,6 +45,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Mathematics](#mathematics)
   * [Networking](#networking)
   * [Misc](#misc)
+  * [Office](#office)
   * [ORM](#orm)
   * [Profiling](#profiling)
   * [Queue and Messaging](#queue-and-messaging)
@@ -203,14 +204,15 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Privacy focused, ZeroLink compliant Bitcoin wallet.
 
 ### Bot
+* [BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
 * [NadekoBot](https://github.com/Kwoth/NadekoBot) - Open source, general-purpose Discord chat bot written in C#.
-* [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - C# <a href="https://core.telegram.org/bots/api">Telegram Bot API</a> library.
-* [Funogram](https://github.com/Dolfik1/Funogram) - F# <a href="https://core.telegram.org/bots/api">Telegram Bot API</a> library. <a href="https://medium.com/@worldbeater/funogram-writing-telegram-bots-in-f-f27a873fa548">Getting started</a>.
+* [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
+* [Funogram](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
 
 ### Build Automation
-* [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system. [http://cakebuild.net](http://cakebuild.net).
+* [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system.
 * [CatLight](https://catlight.io) - Status notifier for developers that monitors builds and tasks in the project. Built using .Net Core and Electron.
-* [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Style your C# console output! [http://colorfulconsole.com](http://colorfulconsole.com).
+* [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Style your C# console output!
 * [dotnet-docker](https://github.com/dotnet/dotnet-docker) - The base Docker images for working with .NET Core and the .NET Core Tools.
 * [Dockerize.NET](https://github.com/brthor/Dockerize.NET) - .NET Cli Tool to package your .NET Core Application into a docker image: 'dotnet dockerize'
 * [FlubuCore](https://github.com/flubu-core/flubu.core) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
@@ -338,7 +340,8 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [nodatime](https://github.com/nodatime/nodatime) - Better date and time API for .NET [http://nodatime.org](http://nodatime.org).
 
 ### Distributed Computing
-* [BeatPulse](https://github.com/Xabaril/BeatPulse) - Enable load balancers to montior the status of deployed Web applications
+* [AspNetCore.Diagnostics.HealthChecks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package.
+  - [BeatPulse](https://github.com/Xabaril/BeatPulse) - Enable load balancers to montior the status of deployed Web applications
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
 * [Rafty](https://github.com/ThreeMammals/Rafty) - RAFT consensus in .NET Core.
 * [Obvs](https://github.com/christopherread/Obvs) - An observable microservice bus .NET library that wraps the underlying transport in simple Rx based interfaces.
@@ -517,6 +520,12 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [NETStandard.HttpListener](https://github.com/StefH/NETStandard.HttpListener) - HttpListener for .NET Core (NETStandard).
 * [Networker](https://github.com/MarkioE/Networker) - A simple to use TCP and UDP networking library for .NET, designed to be flexible, scalable and FAST.
 * [Ngrok.AspNetCore](https://github.com/kg73/NgrokAspNetCore) - An integration with Ngrok to automatically start/stop public facing tunnels for local development. Useful for building webhooks and other public-facing APIs locally
+
+### Office
+* [EPPlus](https://github.com/JanKallman/EPPlus) - Create advanced Excel spreadsheets using .NET.
+* [npoi](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
+* [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
+
 ### ORM
 * [Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET.
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - Familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
@@ -600,7 +609,6 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [Manatee.Trello](https://github.com/gregsdennis/Manatee.Trello) - A fully object-oriented .Net wrapper for Trello's RESTful API written in C#.
 * [Microphone](https://github.com/rogeralsing/Microphone) - Lightweight framework to run self hosting REST services using Web Api or NancyFx ontop of a Consul or ETCD cluster.
 * [octokit.net](https://github.com/octokit/octokit.net) - GitHub API client library for .NET.
-* [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
 * [PreStorm](https://github.com/jshirota/PreStorm) - Parallel REST Client for ArcGIS Server.
 * [SendGrid-csharp](https://github.com/sendgrid/sendgrid-csharp) - C# client library for using the full SendGrid API.
 * [statsd-csharp-client](https://github.com/Pereingo/statsd-csharp-client) - .NET Standard compatible C# client to interface with Etsy's excellent [statsd](https://github.com/etsy/statsd) server.
@@ -611,6 +619,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
 * [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
 * [Jwt.Net](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
+* [JWT Simple Server](https://github.com/Xabaril/JWTSimpleServer) - A lightweight, dynamic jwt server for ASP.NET Core.
 * [NWebsec](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET [https://www.nwebsec.com](https://www.nwebsec.com).
 * [reCAPTCHA](https://github.com/PaulMiami/reCAPTCHA) - reCAPTCHA 2.0 for ASP.NET Core.
 * [roslyn-security-guard](https://github.com/dotnet-security-guard/roslyn-security-guard) - Roslyn analyzers that aim to help security audit on .NET applications.
@@ -850,9 +859,10 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 
 ## Community
 * [.NET Foundation](http://forums.dotnetfoundation.org)
+* [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
 * [ASP.NET](https://forums.asp.net)
 * [Channel9](https://channel9.msdn.com)
-* [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
+* [Awesome .NET open source & community resources](https://discoverdot.net)
 * [Slack](http://tattoocoder.com/aspnet-slack-sign-up)
 * [BuiltWithDot.Net](https://builtwithdot.net)
 * Stack Overflow

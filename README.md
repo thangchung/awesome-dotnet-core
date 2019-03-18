@@ -495,6 +495,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [LibSass Host](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](http://sass-lang.com/libsass) library with the ability to support a virtual file system.
 * [markdig](https://github.com/lunet-io/markdig) - Fast, powerfull, CommonMark compliant, extensible Markdown processor for .NET.
 * [NReco.LambdaParser](https://github.com/nreco/lambdaparser) - Parses string expressions (formulas, methods calls, conditions) to LINQ expression tree that can be compiled to lambda and evaluated.
+[NBlink](https://github.com/anixati/NBlink) - Electronjs like framework for building HTML GUI applications using Chrome Devtools Protocol.
 * [Otp.NET](https://github.com/kspearrin/Otp.NET) - An implementation TOTP RFC 6238 and HOTP RFC 4226 in C#.
 * [pose](https://github.com/tonerdo/pose) - Replace any .NET method (including static and non-virtual) with a delegate
 * [PuppeteerSharp](https://github.com/kblok/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.

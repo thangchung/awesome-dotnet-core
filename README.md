@@ -62,6 +62,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Web Socket](#web-socket)
   * [Windows Service](#windows-service)
   * [Workflow](#workflow)
+* [Roadmaps](#roadmaps)
 * [Starter Kits](#starter-kits)
 * [Sample Projects](#sample-projects)
 * [Articles](#articles)
@@ -749,6 +750,9 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) - Component that adds workflow in your application.
 * [Wexflow](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
+
+## Roadmaps
+* [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.
 
 ## Starter Kits
 * [Arch](https://github.com/Arch) - The collection of .NET Core libraries that are created by software architects who embrace all the new stuff in .NET Core.

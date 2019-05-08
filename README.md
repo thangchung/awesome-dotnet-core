@@ -518,6 +518,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [UnitsNet](https://github.com/angularsen/UnitsNet) - Units.NET gives you all the common units of measurement and the conversions between them.
 * Validation
   * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - Small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+  * [FormHelper](https://github.com/sinanbozkus/formhelper) - FormHelper helps you to create ajax forms and validations without writing any javascript code. It transforms server-side validations to client-side. Compatible with FluentValidation.
   * [Guard](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
   * [Valit](https://github.com/valit-stack/Valit) - A dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!
 * [warden-stack](https://github.com/warden-stack) - "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch.

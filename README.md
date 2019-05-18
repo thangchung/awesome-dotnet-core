@@ -354,6 +354,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [Rafty](https://github.com/ThreeMammals/Rafty) - RAFT consensus in .NET Core.
 * [Obvs](https://github.com/christopherread/Obvs) - An observable microservice bus .NET library that wraps the underlying transport in simple Rx based interfaces.
 * [Ocelot](https://github.com/ThreeMammals/Ocelot) - API Gateway created using .NET Core.
+* [CoreOcelot](https://github.com/younos1986/Core.Ocelot) - Core.Ocelot is an ASP.NET Core middleware to implement API Gateways in Microservice based applications.
 * [OpenTracing](https://github.com/opentracing/opentracing-csharp) - Vendor-neutral APIs and instrumentation for distributed tracing.
 * [Polly](https://github.com/App-vNext/Polly) - .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner.
 

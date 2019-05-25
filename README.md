@@ -399,6 +399,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [veldrid](https://github.com/mellinoe/veldrid) - A low-level, hardware-accelerated 3D graphics library for .NET.
 
 ### GUI
+* [HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls.
 * [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 * [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit/) - The Avalonia-based text editor component forked from [AvalonEdit](https://github.com/icsharpcode/AvalonEdit)
 * [Qml.Net](https://github.com/pauldotknopf/Qml.Net) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core.

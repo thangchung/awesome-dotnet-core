@@ -414,10 +414,10 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [Visual Studio Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) - Free editor for individual developers, open source projects, academic research, education, and small professional teams.
 
 ### Internationalization
+* [Lexical.Localization](https://github.com/tagcode/Lexical.Localization) - Localization class library for .NET.
 * [Localization](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
 * [NetCoreStack.Localization](https://github.com/NetCoreStack/Localization) - Database Resource Localization for .NET Core with Entity Framework and In Memory Cache
 * [Westwind.Globalization](https://github.com/RickStrahl/Westwind.Globalization) - Database driven resource localization for .NET applications.
-* [Lexical.Localization](https://github.com/tagcode/Lexical.Localization) - Localization class library for .NET.
 
 ### IOC
 * [AutoDI](https://github.com/Keboo/AutoDI) - Super-fast compile-time dependency injection using IL weaving.

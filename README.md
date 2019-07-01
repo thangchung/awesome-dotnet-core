@@ -505,6 +505,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - Fast ExpressionTree compiler to delegate.
 * [FluentFTP](https://github.com/robinrodricks/FluentFTP/) - FTP and FTPS client, with extensive FTP commands, SSL/TLS connections, hashing/checksums and more.
 * [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
+* [HAMT.NET](https://github.com/alexandrnikitin/HAMT.NET) - Hash Array Mapped Trie implementation for .NET 
 * [HdrHistogram.NET](https://github.com/HdrHistogram/HdrHistogram.NET) - High Dynamic Range (HDR) Histogram.
 * [httpclient-interception](https://github.com/justeat/httpclient-interception) - .NET Standard library for intercepting server-side HTTP dependencies.
 * [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.

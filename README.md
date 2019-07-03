@@ -436,6 +436,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - Easy, flexible, and fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
 * [Stashbox](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 * [StructureMap](https://github.com/structuremap/structuremap) - Dependency Injection/Inversion of Control tool for .NET.
+* [Simplify.DI](https://github.com/i4004/Simplify/wiki/Simplify.DI) - A common interface for IOC containers. Decouples users and frameworks (that are based on Simplify.DI) from dependency on IOC containers.
 
 ### Logging
 * [common-logging](https://github.com/net-commons/common-logging) - Portable logging abstraction for .NET [http://net-commons.github.io/common-logging](http://net-commons.github.io/common-logging).

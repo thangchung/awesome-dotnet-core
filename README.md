@@ -701,6 +701,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [FluentAssertions](https://github.com/dennisdoomen/FluentAssertions) - Set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 * [GenFu](https://github.com/MisterJames/GenFu) - Library you can use to generate realistic test data.
 * [LightBDD](https://github.com/LightBDD/LightBDD) - BDD framework allowing to create easy to read and maintain tests.
+* [Mockaco](https://github.com/natenho/Mockaco/) - A Roslyn-powered API mock server, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting.
 * [mockhttp](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library.
 * [moq.netcore](https://github.com/Moq/moq4) - Most popular and friendly mocking framework for .NET.
 * [MSpec](https://github.com/machine/machine.specifications) - Popular testing framework for writing BDD-style tests.

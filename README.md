@@ -258,6 +258,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Lynicon](https://github.com/jamesej/lyniconanc) - O/S ASP.Net Core/.Net Core CMS with paid for modules: JSON content, works with variety of data stores, c# content types
 * [Miniblog](https://github.com/madskristensen/Miniblog.Core) - An ASP.NET Core blogging engine.
 * [NetCoreCMS](https://github.com/OnnoRokomSoftware/NetCoreCMS) - An Open source ASP.NET Core 2.0 CMS. It currently supports MySQL and planned to implement MSSQL, SQLite and PostgreSQL. Also it is a modular CMS supports theme, skin, custom layout, widgets, multiple language (En, BN).
+* [NetModular](https://github.com/iamoldli/NetModular) - A modular quickly develop solution for .NET Standard.
 * [Orchard Core CMS](https://github.com/OrchardCMS/OrchardCore) - Open Source Content Management System built with ASP.NET Core on top of a Modular and Extensible Application Framework.
 * [Piranha CMS](https://github.com/piranhacms/piranha.core) - A Lightweight & Unobtrusive Open Source CMS for ASP.NET Core and Entity Framework Core.
 * [Platformus](https://github.com/Platformus) - Free, open source and cross-platform CMS based on ASP.NET Core 1.0 and ExtCore framework.
@@ -267,7 +268,6 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Weapsy](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
 * [Wyam](https://github.com/Wyamio/Wyam) - Modular static content and static site generator.
 * [ZKEACMS](https://github.com/SeriaWei/ZKEACMS.Core) - Visual design, build site onlie by drag and drop.
-* [NetModular](https://github.com/iamoldli/NetModular) - A modular quickly develop solution for .NET Standard.
 
 ### Code Analysis and Metrics
 * [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Curated list of static analysis tools, linters and code quality checkers for various programming languages.

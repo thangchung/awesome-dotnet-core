@@ -642,6 +642,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [google-cloud-dotnet](https://github.com/GoogleCloudPlatform/google-cloud-dotnet) - Google Cloud Client Libraries for .NET.
 * [Manatee.Trello](https://github.com/gregsdennis/Manatee.Trello) - A fully object-oriented .Net wrapper for Trello's RESTful API written in C#.
 * [Microphone](https://github.com/rogeralsing/Microphone) - Lightweight framework to run self hosting REST services using Web Api or NancyFx ontop of a Consul or ETCD cluster.
+* [NwRfcNet](https://github.com/nunomaia/NwRfcNet) - An easy way of making SAP RFC calls from .NET Core
 * [octokit.net](https://github.com/octokit/octokit.net) - GitHub API client library for .NET.
 * [PreStorm](https://github.com/jshirota/PreStorm) - Parallel REST Client for ArcGIS Server.
 * [SendGrid-csharp](https://github.com/sendgrid/sendgrid-csharp) - C# client library for using the full SendGrid API.

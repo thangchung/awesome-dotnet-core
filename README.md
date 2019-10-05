@@ -217,6 +217,8 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [NadekoBot](https://github.com/Kwoth/NadekoBot) - Open source, general-purpose Discord chat bot written in C#.
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
 * [Funogram](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
+* [Discord.Net](https://github.com/discord-net/Discord.Net) - An unofficial .NET API Wrapper for the Discord client.
+* [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) - A C# library for making bots using the Discord API.
 
 ### Build Automation
 * [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system.

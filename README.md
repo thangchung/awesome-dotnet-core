@@ -219,7 +219,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 ### Telegram
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
 * [Funogram](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
-* [TGMTProto](https://github.com/TGMTProto/MTProtoProxy) - C# MTProto Proxy for Telegram using .NET Core framework to target Windows and Linux operating systems.
+* [freepvps_mtproto-proxy](https://github.com/freepvps/mtproto-proxy) - C# MTProto Proxy for Telegram using .NET Core to target Windows ,Linux and mac operating systems.
 
 ### Build Automation
 * [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system.

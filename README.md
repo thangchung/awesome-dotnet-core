@@ -501,6 +501,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Dotnet Serve](https://github.com/natemcmaster/dotnet-serve) - Simple command-line HTTP server for .NET Core CLI.
 * [Eighty](https://github.com/benjamin-hodgson/Eighty) - A simple HTML generation library
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
+* [ExcelExport](https://github.com/fingers10/ExcelExport) - Simple classes to generate Excel Report in ASP.NET Core.
 * [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - Fast ExpressionTree compiler to delegate.
 * [FluentFTP](https://github.com/robinrodricks/FluentFTP/) - FTP and FTPS client, with extensive FTP commands, SSL/TLS connections, hashing/checksums and more.
 * [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies

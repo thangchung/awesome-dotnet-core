@@ -756,6 +756,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [X.Web.Sitemap](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
 * [X.Web.RSS](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
 * [SmartCode](https://github.com/Ahoo-Wang/SmartCode) – SmartCode= IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including [Code generator])
+* [ILSpy](https://github.com/icsharpcode/ILSpy) – ILSpy is the open-source .NET assembly browser and decompiler.
 
 ### Web Framework
 * WebAssembly

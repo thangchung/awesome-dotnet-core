@@ -198,6 +198,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [stormpath-sdk](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core. 
 * [stormpath-sdk](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core.(Deprecated: It will longer get updated as of March 2017 after joining OKTA) 
 * [stuntman](https://github.com/ritterim/stuntman) - Library for impersonating users during development leveraging ASP.NET Identity.
+* [Mihir.AspNetCore.Authentication.Basic](https://github.com/mihirdilip/Mihir.AspNetCore.Authentication.Basic) - Basic Scheme Authentication for ASP.NET Core
 
 ### Blockchain
 * [BTCPayServer](https://github.com/btcpayserver/btcpayserver) - A cross platform, self-hosted server compatible with Bitpay API.

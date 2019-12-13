@@ -833,6 +833,7 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [cloudscribe](https://github.com/cloudscribe/cloudscribe) - ASP.NET Core Multi-tenant web application foundation.
   * [CoreCodeCamp](https://github.com/shawnwildermuth/CoreCodeCamp) - An Open Source Website for running small, local development events.
   * [DotNetClub](https://github.com/scheshan/DotNetClub) - Tiny club written in ASP.NET Core.
+  * [e-Luminous](https://github.com/e-Luminous/src) - Clone of [Google Classroom](https://classroom.google.com/) using ASP.NET Core 3.1 and [MaterializeCSS](https://github.com/Dogfalo/materialize) including scientific experimental features & data analytical plugins.
   * [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - A layered application architecture with monolithic deployment model.
   * [Entropy](https://github.com/aspnet/Entropy) - Chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
   * [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 2.0 application with DDD, CQRS and Event Sourcing.

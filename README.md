@@ -555,6 +555,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [CurlThin](https://github.com/stil/CurlThin) - Lightweight cURL binding library for C# with support for multiple simultaneous transfers through curl_multi interface.
 * [NETStandard.HttpListener](https://github.com/StefH/NETStandard.HttpListener) - HttpListener for .NET Core (NETStandard).
 * [Networker](https://github.com/MarkioE/Networker) - A simple to use TCP and UDP networking library for .NET, designed to be flexible, scalable and FAST.
+* [Twino Server](https://github.com/mhelvacikoylu/twino) - Extensible TCP server library. It has HTTP, WebSockets and TMQ protocol libraries, other protocols can be implemented.
 
 ### Office
 * [EPPlus](https://github.com/JanKallman/EPPlus) - Create advanced Excel spreadsheets using .NET.

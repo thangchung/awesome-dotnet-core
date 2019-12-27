@@ -765,6 +765,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [X.Web.Sitemap](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
 * [X.Web.RSS](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
 * [SmartCode](https://github.com/Ahoo-Wang/SmartCode) – SmartCode= IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including [Code generator])
+* [Dackup](https://github.com/huobazi/dackup) – Dackup is a .NET Core based backup tool for your files and database to Cloud.
 
 ### Web Framework
 * WebAssembly

@@ -726,6 +726,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking frameworks.
 * [nunit](https://github.com/nunit/dotnet-test-nunit) - NUnit test runner for .NET Core.
 * [shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET - the way Asserting *Should* be! [http://shouldly.readthedocs.org/en/latest](http://shouldly.readthedocs.org/en/latest)
+* [SignalR_UnitTestingSupport](https://github.com/NightAngell/SignalR_UnitTestingSupport) - Easy to use, small, SignalR Core unit testing support with NUnit/xUnit/MSTest and Moq. It`s also possibility to use it with custom testing engine. [Docs](https://github.com/NightAngell/SignalR_UnitTestingSupport/wiki) ready to use.
 * [SpecFlow](https://github.com/techtalk/SpecFlow) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
 * [Storyteller](https://github.com/storyteller/Storyteller) - Executable Specifications for .NET [http://storyteller.github.io](http://storyteller.github.io).
 * [Stubbery](https://markvincze.github.io/Stubbery/) - A simple library for creating and running Api stubs in .NET.

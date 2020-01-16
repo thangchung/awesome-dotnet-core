@@ -559,6 +559,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Office
 * [EPPlus](https://github.com/JanKallman/EPPlus) - Create advanced Excel spreadsheets using .NET.
+* [GemBox.Bundle](https://www.gemboxsoftware.com/bundle) - .NET libraries that enable fast, simple and efficient processing of office files (Excel, Word, PowerPoint, PDF and emails).
 * [npoi](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
 

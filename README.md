@@ -410,6 +410,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SharpBgfx](https://github.com/MikePopoloski/SharpBgfx) - C# bindings for the bgfx graphics library.
 * [Structure.Sketching](https://github.com/JaCraig/Structure.Sketching) - Image processing library for use in .NET applications that supports .NET Core.
 * [veldrid](https://github.com/mellinoe/veldrid) - A low-level, hardware-accelerated 3D graphics library for .NET.
+* [ImageThumbnail Middleware](https://github.com/osprakash/ImageThumbnail-aspnetcore) - ASP.NET Core middleware to serve image thumbnails with disk caching.
 
 ### GUI
 * [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).

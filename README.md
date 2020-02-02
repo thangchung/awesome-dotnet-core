@@ -72,6 +72,10 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### API
 * [autorest](https://github.com/Azure/autorest) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
 * [CondenserDotNet](https://github.com/Drawaes/CondenserDotNet) - API Condenser / Reverse Proxy using Kestrel and Consul, Including light weight consul library.
+* Easify 
+ * [Easify](https://github.com/icgam/easify) - Framework to create Microservices API in Asp.Net Core with cross cutting concerns (validation, mapping, exception handling, etc) and fluent bootstrapping
+ * [Easify EF](https://github.com/icgam/easify.ef) - A set of extension methods and helper to make UnitOfWork [https://github.com/moattarwork/UnitOfWork] easier to use for Easify
+ * [Easify Template](https://github.com/icgam/easify.template) - Quich solution based generator with easify for dotnet cli.
 * [Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP for .NET [http://tmenier.github.io/Flurl](http://tmenier.github.io/Flurl).
 * GraphQL
   * [graphiql-dotnet](https://github.com/JosephWoodward/graphiql-dotnet) - GraphiQL middleware for ASP.NET Core.

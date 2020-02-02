@@ -72,6 +72,10 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### API
 * [autorest](https://github.com/Azure/autorest) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
 * [CondenserDotNet](https://github.com/Drawaes/CondenserDotNet) - API Condenser / Reverse Proxy using Kestrel and Consul, Including light weight consul library.
+* Easify 
+ * [Easify](https://github.com/icgam/easify) - Framework to create Microservices API in Asp.Net Core with cross cutting concerns (validation, mapping, exception handling, etc) and fluent bootstrapping
+ * [Easify EF](https://github.com/icgam/easify.ef) - A set of extension methods and helper to make UnitOfWork [https://github.com/moattarwork/UnitOfWork] easier to use for Easify
+ * [Easify Template](https://github.com/icgam/easify.template) - Quich solution based generator with easify for dotnet cli.
 * [Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP for .NET [http://tmenier.github.io/Flurl](http://tmenier.github.io/Flurl).
 * GraphQL
   * [graphiql-dotnet](https://github.com/JosephWoodward/graphiql-dotnet) - GraphiQL middleware for ASP.NET Core.
@@ -265,6 +269,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 * [FluentFTP](https://github.com/hgupta9/FluentFTP/) - FTP and FTPS client, with extensive FTP commands, SSL/TLS connections, hashing/checksums and more.
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - Small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+* [Foil](http://github.com/moattarwork/foil) - Minimalistic AOP framework for ASP.Net Core ServiceCollection
 * [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 * [LibSass Host](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](http://sass-lang.com/libsass) library with the ability to support a virtual file system.
 * [markdig](https://github.com/lunet-io/markdig) - Fast, powerfull, CommonMark compliant, extensible Markdown processor for .NET.
@@ -277,6 +282,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Relinq](https://github.com/re-motion/Relinq) - With re-linq, it's now easier than ever to create full-featured LINQ providers.
 * [ReverseMarkdown](https://github.com/mysticmind/reversemarkdown-net) - Html to Markdown converter library.
 * [PdfReport.Core](https://github.com/VahidN/PdfReport.Core) - PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core libraries.
+* [Onff](https://github.com/moattarwork/onff) - Simple feature toggling for ASP.Net Core
 * [PreStorm](https://github.com/jshirota/PreStorm) - Parallel REST Client for ArcGIS Server.
 * [Polly](https://github.com/App-vNext/Polly) - .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner.
 * [Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
@@ -297,6 +303,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [NReco.Data](https://github.com/nreco/data) - Lightweight provider-independent DAL for SQL commands generation, CRUD operations and simple POCO mapping.
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM.
 * [SqlFu](https://github.com/sapiens/SqlFu) - Fast and versatile Micro-ORM.
+* [UnitOfWork](https://github.com/moattarwork/UnitOfWork) - Unit of work library for .Net Core including testing extensions and facilities
 
 ### Profiling
 * [Glimpse](http://getglimpse.com) - Lightweight, open-source, real-time diagnostics and insights profiler for .NET. 

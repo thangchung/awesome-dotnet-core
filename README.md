@@ -234,6 +234,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [msbuild](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
 * [Nuke](https://github.com/nuke-build/nuke) - Cross-platform build automation system.
 * [Opserver](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System.
+* [repo-version](https://github.com/kjjuno/repo-version) - Automatic versioning for git repositories based tags, and the number of commits since the last tag.
 * [vsts-agent](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services Build and Release Agent.
 
 ### Bundling and Minification

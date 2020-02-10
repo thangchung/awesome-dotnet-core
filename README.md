@@ -581,6 +581,7 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [LINQKit](https://github.com/scottksmith95/LINQKit) - A free set of extensions for LINQ to SQL and Entity Framework power users.
   * [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector.
   * [spectre.query](https://github.com/spectresystems/spectre.query) - A simple query language for Entity Framework Core.
+  * [EFCoreAuditing](https://github.com/OKTAYKIR/EFCoreAuditing) - A Library for EntityFrameworkCore to support automatically recording data changes history (audit logging), soft-delete, and Snakecase naming convention functionality.
 * [Dapper](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
   * [Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
   * [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.

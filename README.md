@@ -735,6 +735,8 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [TestStack.BDDfy](https://github.com/TestStack/TestStack.BDDfy) - The simplest BDD framework EVER!
 * [xBehave.net](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language. [http://xbehave.github.io](http://xbehave.github.io)
 * [xUnit.net](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
+* [Fettle](https://github.com/comparethemarket/fettle/) - Fettle is an experimental mutation testing tool for C#.
+* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - Stryker.NET offers you mutation testing for your .NET Core and .NET Framework projects. It allows you to test your tests by temporarily inserting bugs.
 
 ### Tools
 * [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET Core and .NET Framework.

@@ -464,6 +464,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Foundatio](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application.
 * [Karambolo.Extensions.Logging.File](https://github.com/adams85/filelogger) - A lightweight library which implements file logging for the built-in .NET Core logging framework (Microsoft.Extensions.Logging).
 * [LibLog](https://github.com/damianh/LibLog) - Single file for you to either copy/paste or install via nuget, into your library/ framework/ application to provide a logging abstraction.
+* [Logging](https://github.com/akovac35/Logging) - Helpful resources for .NET Core and ASP.NET Core logging using various logger frameworks and Microsoft.Extensions.Logging.ILogger interface.
 * [log4net](https://github.com/apache/logging-log4net) - log4net is a port of the excellent Apache log4j™ framework to the Microsoft® .NET runtime.
 * [NLog](https://github.com/NLog/NLog) - Advanced .NET, Silverlight and Xamarin Logging with support for structured and non structured logging.
   * [NLog for ASP.NET and ASP.NET Core](https://github.com/NLog/NLog.Web) - NLog integration for ASP.NET & ASP.NET Core 1-3
@@ -849,6 +850,7 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [dotnetcore-microservices-poc](https://github.com/asc-lab/dotnetcore-microservices-poc) -  simplified insurance sales system made in a microservices architecture using .NET Core (EF Core, MediatR, Marten, Eureka, Ocelot, RabbitMQ, Polly, ElasticSearch, Dapper) with blog post series.
   * [eShopOnContainers](https://github.com/dotnet/eShopOnContainers) - Microservices Architecture and Containers based Reference Application.
   * [InMemoryCQRSReplication](https://github.com/Aaronontheweb/InMemoryCQRSReplication) - Akka.NET Reference Architecture - CQRS + Sharding + In-Memory Replication
+  * [Logging.Samples](https://github.com/akovac35/Logging.Samples) - Samples for .NET Core and ASP.NET Core logging using various logger frameworks  and Microsoft.Extensions.Logging.ILogger interface.
   * [magazine-website](https://github.com/thangchung/magazine-website) - Magazine website (using .NET Core, ASP.NET Core, EF Core) with DDD, CQRS, microservices, asynchronous programming applied.
   * [microservices-in-dotnetcore](https://github.com/horsdal/microservices-in-dotnet-book-second-edition) - The code sample from the second edition of [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core-second-edition)
   * [ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time trading platform demo showcasing reactive programming principles applied across the full application stack.   

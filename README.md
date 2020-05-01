@@ -806,6 +806,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [redux.NET](https://github.com/GuillaumeSalles/redux.NET) - Predictable state container for .NET apps. Inspired by [https://github.com/reactjs/redux](https://github.com/reactjs/redux).
 
 ### Web Socket
+* [Entity Signal](https://github.com/dustout/entitysignal) - Establish a real time connection to Entity Framework Core through Signalr Core.
 * [Fleck](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Fleck requires no inheritance, container, or additional references.
 * [SignalR Server](https://github.com/aspnet/signalr) - Real-time web functionality for web apps, including server-side push.
 * [SuperSocket](https://github.com/kerryjiang/SuperSocket) - Light weight, cross platform and extensible socket server application framework.

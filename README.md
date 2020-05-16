@@ -516,6 +516,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Bleak](https://github.com/Akaion/Bleak) - A Windows native DLL injection library.
 * [Bullseye](https://github.com/adamralph/bullseye/) - A .NET package for describing and running targets and their dependencies.
 * [Castle.Core](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter [http://www.castleproject.org](http://www.castleproject.org).
+* [Charming](https://github.com/tzkhan/Charming) - A small, lightweight library that lets you generate ARM templates using C#.
 * [Chessie](https://github.com/fsprojects/Chessie) - Railway-oriented programming for .NET [http://fsprojects.github.io/Chessie](http://fsprojects.github.io/Chessie).
 * [CliWrap](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
 * [commanddotnet](https://github.com/bilal-fazlani/commanddotnet) - Model your command line application interface in a class.

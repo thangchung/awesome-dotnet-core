@@ -882,6 +882,8 @@ Mathematical Calculations. Can also do mathical scripting.
   * [Practical ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) - A daily updated micro samples of ASP.NET Core features and facilities.
   * [Sample .NET Core CQRS REST API](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
   * [StarWars](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core.
+* SPAs
+  * [Blazing Pizza workshop](https://aka.ms/blazorworkshop) - Pizza ordering website build with Blazor, a single-page app framework for building client-side web apps using .NET and WebAssembly.
  
 ## Articles
 * Basic knowledge

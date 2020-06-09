@@ -583,6 +583,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Office
 * [EPPlus](https://github.com/JanKallman/EPPlus) - Create advanced Excel spreadsheets using .NET.
+* [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - An import and export general library, support Dto import and export and dynamic export, support Excel, Csv, Word, Pdf and Html.
 * [npoi](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
 

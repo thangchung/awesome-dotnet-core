@@ -512,6 +512,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [AgileMapper](https://github.com/agileobjects/AgileMapper) - AgileMapper is a zero-configuration, highly-configurable object-object mapper with viewable execution plans.
 * [AspNetCore Extension Library](https://github.com/sgjsakura/AspNetCore) - ASP.NET Core Extension Library.
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - Convention-based object-object mapper in .NET.
+* [AWS Redrive](https://github.com/nickntg/awsredrive.core) - AWSRedrive is an application that receives messages from SQS queues and posts them to HTTP services. 
 * [Baget](https://github.com/loic-sharma/BaGet) - A lightweight NuGet server.
 * [Bleak](https://github.com/Akaion/Bleak) - A Windows native DLL injection library.
 * [Bullseye](https://github.com/adamralph/bullseye/) - A .NET package for describing and running targets and their dependencies.

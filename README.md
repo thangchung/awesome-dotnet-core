@@ -51,6 +51,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Profiling](#profiling)
   * [Queue and Messaging](#queue-and-messaging)
   * [Query Builders](#query-builders)
+  * [Real-time Communications](#real-time-communications)
   * [Scheduler and Job](#scheduler-and-job)
   * [SDKs](#sdks)
   * [Security](#security)
@@ -648,6 +649,10 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 * [Restbus](http://restbus.org) - Messaging library for RabbitMq.
 * [Tossit](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
+
+### Real-time Communications
+
+* [SIPSorcery](https://github.com/sipsorcery/sipsorcery) - A cross platform C# .NET library supporting SIP, VoIP and WebRTC.
 
 ### Reporting
 * [FastReport](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in MVC, Web API applications.

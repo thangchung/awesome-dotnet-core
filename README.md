@@ -734,6 +734,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Portable.Xaml](https://github.com/cwensley/Portable.Xaml) - Portable .NET library for reading/writing xaml files.
 * [Razor](https://github.com/aspnet/Razor) - Parser and code generator for CSHTML files used in view pages for MVC web apps.
 * [RazorLight](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core.
+* [RazorLightCore](https://github.com/adoconnection/RazorEngineCore) - Template engine based on Microsoft's Razor parsing engine that actually works on .NET Core 3 and later.
 * [Scriban](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET.
 
 ### Testing

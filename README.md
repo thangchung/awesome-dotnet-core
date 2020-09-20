@@ -37,6 +37,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Graphics](#graphics)
   * [GUI](#gui)
   * [IDE](#ide)
+  * [Infrastructure as Code](#infrastructure-as-code)
   * [Internationalization](#internationalization)
   * [IOC](#ioc)
   * [Logging](#logging)
@@ -439,6 +440,9 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - SharpDevelop is a free Integrated Development Environment (IDE) for C#, VB.NET, Boo, IronPython, IronRuby and F# projects on Microsoft's .NET platform. It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
 * [Visual Studio Code](https://github.com/Microsoft/vscode) - New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 * [Visual Studio Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) - Free editor for individual developers, open source projects, academic research, education, and small professional teams.
+
+### Infrastructure as Code
+* [Pulumi](https://www.pulumi.com/docs/intro/languages/dotnet) - Pulumi supports infrastructure as code using any .NET Core language. You can use your favorite .NET tools — such as editors, package managers, build systems, and test frameworks — to create, deploy, and manage infrastructure on any cloud, including Azure, AWS, and Google Cloud.
 
 ### Internationalization
 * [Localization](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.

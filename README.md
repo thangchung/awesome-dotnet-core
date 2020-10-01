@@ -664,6 +664,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [LiquidState](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET.
 * [NCrontab](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
 * [quartznet](https://github.com/quartznet/quartznet/) - Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
+  * [SilkierQuartz](https://github.com/maikebing/SilkierQuartz) - SilkierQuartz can host jobs using HostService and Provide a web management tools for Quartz!
 * [stateless](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
 
 ### SDKs

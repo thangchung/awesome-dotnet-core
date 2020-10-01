@@ -766,6 +766,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [xUnit.net](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 
 ### Tools
+* [certify](https://github.com/webprofusion/certify) - SSL Certificate Manager UI for Windows, powered by Let's Encrypt.
 * [CliFx](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
 * [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET Core and .NET Framework.
 * [docfx](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects [http://dotnet.github.io/docfx](http://dotnet.github.io/docfx)

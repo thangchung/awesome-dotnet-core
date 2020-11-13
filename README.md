@@ -444,6 +444,8 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Localization](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
 * [NetCoreStack.Localization](https://github.com/NetCoreStack/Localization) - Database Resource Localization for .NET Core with Entity Framework and In Memory Cache
 * [Westwind.Globalization](https://github.com/RickStrahl/Westwind.Globalization) - Database driven resource localization for .NET applications.
+* [XLocalizer](https://github.com/LazZiya/XLocalizer) A nuget package for localizing Asp.Net Core web applications easily with support of online translation and auto resource creating.
+* [XLocalizer.Samples](https://github.com/LazZiya/XLocalizer.Samples) Sample Asp.Net Core projects localized using XLocalizer with different resource types (resx, xml, db).
 
 ### IOC
 * [AutoDI](https://github.com/Keboo/AutoDI) - Super-fast compile-time dependency injection using IL weaving.

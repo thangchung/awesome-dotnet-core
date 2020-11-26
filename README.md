@@ -349,6 +349,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [progaudi.tarantool](https://github.com/progaudi/progaudi.tarantool) - .NET client for Tarantool NoSql database.
 
 ### Database Tools and Utilities
+* [DACFx](https://www.nuget.org/packages/Microsoft.SqlServer.DACFx) - A lightweight version of DacFx that allows deploying a DAC package to a new or existing database
 * [DbUp](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
 * [Evolve](https://github.com/lecaillon/Evolve) - Simple database migration tool that uses plain SQL scripts. Inspired by Flyway.
 * [EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core.

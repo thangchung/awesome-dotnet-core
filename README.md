@@ -917,6 +917,8 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [ASP.NET Core 2.0 Authentication and Authorization System Demystified](https://digitalmccullough.com/posts/aspnetcore-auth-system-demystified.html)
   * [A walk-through for an ASP.NET Authorization Lab](https://github.com/blowdart/AspNetAuthorizationWorkshop)
   * [Authentication in ASP.NET Core](https://stormpath.com/blog/authentication-asp-net-core)
+* Source Generators
+  * [.NET 5 Source Generators - MediatR - CQRS - OMG!](https://www.edument.se/en/blog/post/net-5-source-generators-mediatr-cqrs) -  Eplores how you can use the new source generator feature in .NET 5 to automatically generate an API for a system using the MediatR library and the CQRS pattern.
 * Testing
   * [Selenium with .NET Core](http://www.dotnetcatch.com/2016/11/23/selenium-with-net-core/)
 - [InfoQ .NET articles](https://www.infoq.com/dotnet) -  Collection of best .NET articles on InfoQ site

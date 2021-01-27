@@ -122,6 +122,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [WebAPIContrib for ASP.NET CORE](https://github.com/WebApiContrib/WebAPIContrib.Core) - Community Contributions for ASP.NET Core.
 
 ### Application Frameworks
+* [anyservice](https://github.com/saturn72/AnyService) - AnyService is the fastest way to REST using aspnet core. Create full blown RESTful API in minutes!
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate is a general purpose application framework especially designed for new modern web applications. It uses already familiar tools and implements best practices around them to provide you a SOLID development experience.
 * [Abp vNext](https://github.com/abpframework/abp) - Abp vNext is the next generation of the open source [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) framework. It's a complete architecture and strong infrastructure to create modern web applications!
 Follows best practices and conventions to provide you a SOLID development experience.

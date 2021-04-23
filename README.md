@@ -800,6 +800,9 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [X.Web.RSS](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
 * [SmartCode](https://github.com/Ahoo-Wang/SmartCode) – SmartCode= IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including [Code generator])
 
+## Web Browsers
+* [CefSharp](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser for .NET and .NET Core powered by Chromium 
+
 ### Web Framework
 * WebAssembly
   * [Blazor](https://github.com/SteveSanderson/Blazor) - UI framework running .NET in the browser via WebAssembly.

@@ -826,7 +826,6 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) - Component that adds workflow in your application.
 * [Wexflow](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
 * [ElsaCore](https://github.com/elsa-workflows/elsa-core) - A highly recommended library. Fully documents, WF designer and dashboard integrated.
-* [microwf](https://github.com/thomasduft/microwf) - Lighweight and simple finite state machine workflow character. Fit for WF with normal complexity.
 
 ## Roadmaps
 * [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.

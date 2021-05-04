@@ -822,6 +822,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Workflow
 * [CoreWF](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
+* [Elsa Workflows](https://github.com/elsa-workflows/elsa-core) - Workflows library that enables workflow execution in any .NET Core application.
 * [workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) - Component that adds workflow in your application.
 * [Wexflow](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.

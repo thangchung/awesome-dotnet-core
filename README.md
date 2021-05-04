@@ -154,6 +154,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Halibut](https://github.com/OctopusDeploy/Halibut) - A secure communication stack for .NET using JSON-RPC over SSL.
 * [MagicOnion](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
 * [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET. 
+* [Microbootstrap](https://github.com/mehdihadeli/MicroBootstrap) - MicroBootstrap is a framework for quickly and conveniently creating microservices on .NET Core.
 * [microdot](https://github.com/gigya/microdot) - An open source .NET microservices framework.
 * [MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects.
 * [Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .NET and Mono.

@@ -130,6 +130,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [akka.net](https://github.com/akkadotnet/akka.net) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 * [Aggregates.NET](https://github.com/volak/Aggregates.NET) - Aggregates.NET is a framework to help developers integrate the excellent NServiceBus and EventStore libraries together.
 * [ASP.NET MVC](https://github.com/dotnet/aspnetcore/tree/master/src/Mvc) - Model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
+* [Anno.Core](https://github.com/duyanming/Anno.Core) - Anno is a rapid development framework for microservices, and the underlying communication can switch between Grpc and Thrift at will.With its own service discovery, call chain tracking, statistical analysis, monitoring, Dashboard (Viper), Cron scheduling, flow limiting, event bus, CQRS, DDD, plug-in development.
 * [Butterfly Server .NET](https://github.com/firesharkstudios/butterfly-server-dotnet) - Allows building real-time web apps and native apps with minimal effort. Define a Web API and Subscription API that automatically synchronizes datasets across connected clients.
 * [CAP](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for system integration in SOA or Microservice architecture.
 * [Carter](https://github.com/CarterCommunity/Carter) - Carter is a library that allows Nancy-esque routing for use with ASP.Net Core.
@@ -167,6 +168,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Steeltoe OSS](https://github.com/SteelToeOSS) - .NET toolkit for common microservice patterns.
 * [Strathweb.TypedRouting.AspNetCore](https://github.com/filipw/Strathweb.TypedRouting.AspNetCore) - A library enabling strongly typed routing in ASP.NET Core MVC projects.
 * [surging](https://github.com/dotnetcore/surging) - Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS, Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry,  Hash Algorithms, random, polling, pressure minimum priority as a load balancing algorithm, built-in service governance to ensure reliable RPC communication.
+* [Viper](https://github.com/duyanming/Viper) - Viper is a Dashboard project and sample project developed based on Anno.Core micro-service engine.Anno.Core uses GRPC, Thrift as the underlying communication.It comes with service discovery, call chain tracing, Cron scheduling, traffic limiting, event bus, and more
 * [Xer.Cqrs](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 * [X.PagedList](https://github.com/dncuug/X.PagedList) - Library for easily paging through any IEnumerable/IQueryable in ASP.NET/ASP.NET Core.
 

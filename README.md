@@ -566,6 +566,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SmartFormat.NET](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
 * Stocks
   * [Trady](https://github.com/lppkarl/Trady) - Handy library for computing technical indicators, and it targets to be an automated trading system that provides stock data feeding, indicator computing, strategy building and automatic trading.
+* [GihanSoft.String.NaturalComparer](https://github.com/GihanSoft/NaturalStringComparer) - Natural String Comparer. {"text1", "text2", "text10"} instead of {"text1", "text10", "text2"}. pure C# with .NET Standard. Fast because of internal unmanaged code.   
 * [System.Linq.Dynamic.Core](https://github.com/StefH/System.Linq.Dynamic.Core) - The .NET Standard (.NET Core) version from the System Linq Dynamic functionality.
 * [UnitsNet](https://github.com/angularsen/UnitsNet) - Units.NET gives you all the common units of measurement and the conversions between them.
 * Validation

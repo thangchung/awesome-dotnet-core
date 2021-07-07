@@ -324,7 +324,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SecurityDriven.Inferno](github.com/sdrapkin/SecurityDriven.Inferno) - Hig level crypto library used .Net primitives, has been professionally audited.
 
 ### Database
-* [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
+* [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store, embedded, text search, multi parameter search) ACID multi-paradigm database management system.
 * [JsonFlatFileDataStore](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data.
 * [LiteDB](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file - [http://www.litedb.org](http://www.litedb.org).
 * [NoDb](https://github.com/joeaudette/NoDb) - "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
@@ -370,10 +370,11 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Distributed Computing
 * [AspNetCore.Diagnostics.HealthChecks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-  - [BeatPulse](https://github.com/Xabaril/BeatPulse) - Enable load balancers to montior the status of deployed Web applications
+* [BeatPulse](https://github.com/Xabaril/BeatPulse) - Enable load balancers to montior the status of deployed Web applications
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps
 * [jasper](https://github.com/JasperFx/jasper) - Next generation application development framework for .NET
 * [Rafty](https://github.com/ThreeMammals/Rafty) - RAFT consensus in .NET Core
+* [Raft.Net](https://github.com/hhblaze/Raft.Net) - RAFT distributed consensus algorithm with disk or memory data persistence .NET Core
 * [Obvs](https://github.com/christopherread/Obvs) - An observable microservice bus .NET library that wraps the underlying transport in simple Rx based interfaces
 * [Ocelot](https://github.com/ThreeMammals/Ocelot) - API Gateway created using .NET Core
 * [OpenTracing](https://github.com/opentracing/opentracing-csharp) - Vendor-neutral APIs and instrumentation for distributed tracing
@@ -651,6 +652,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [RawRabbit](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
 * [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 * [Restbus](http://restbus.org) - Messaging library for RabbitMq.
+* [SharmIPC](https://github.com/hhblaze/SharmIPC) - SharmIPC is an IPC  [inter-process communication] engine for .NET, based on memory-mapped files.
 * [Tossit](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
 ### Reporting
@@ -712,6 +714,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Serialization
 * [BinarySerializer](https://github.com/jefffhaynes/BinarySerializer) - Serialization for custom packet and protocol formats, supports bit-twiddling.
+* [Biser](https://github.com/hhblaze/Biser) - Cross-platform BINARY and JSON serializer for .NET.
 * [bond](https://github.com/Microsoft/bond) - Cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services.
 * [Channels](https://github.com/davidfowl/Channels) - Push based .NET Streams.
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files.

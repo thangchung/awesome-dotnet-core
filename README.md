@@ -651,6 +651,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [RawRabbit](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
 * [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 * [Restbus](http://restbus.org) - Messaging library for RabbitMq.
+* [Silverback](https://beagle1984.github.io/silverback/) - Framework to build event-driven applications (support for Kafka, RabbitMQ, MQTT).
 * [Tossit](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
 ### Reporting

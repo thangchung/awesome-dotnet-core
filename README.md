@@ -85,6 +85,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 
 ### API
 
+* [anyservice](https://github.com/saturn72/AnyService) - AnyService is the fastest way to REST using aspnet core. Create full blown RESTful API in minutes!
 * [autorest](https://github.com/Azure/autorest) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
 * [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
 * [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware.

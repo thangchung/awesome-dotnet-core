@@ -220,9 +220,10 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Bot
 * [BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+* [Discord.Net](https://github.com/discord-net/Discord.Net) - An unofficial .NET API Wrapper for the Discord client
+* [Funogram](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
 * [NadekoBot](https://github.com/Kwoth/NadekoBot) - Open source, general-purpose Discord chat bot written in C#.
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
-* [Funogram](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
 
 ### Build Automation
 * [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system.
@@ -565,6 +566,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 * [Sheller](https://github.com/twitchax/Sheller) - A .NET library that makes shelling out commands super easy and fluent.
 * [SmartFormat.NET](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
+* [Spectre.Console](https://github.com/spectreconsole/spectre.console) - A .NET 5/.NET Standard 2.0 library that makes it easier to create beautiful, cross platform, console applications.
 * Stocks
   * [Trady](https://github.com/lppkarl/Trady) - Handy library for computing technical indicators, and it targets to be an automated trading system that provides stock data feeding, indicator computing, strategy building and automatic trading.
 * [System.Linq.Dynamic.Core](https://github.com/StefH/System.Linq.Dynamic.Core) - The .NET Standard (.NET Core) version from the System Linq Dynamic functionality.

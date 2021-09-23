@@ -591,6 +591,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [EPPlus](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.
 * [npoi](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
+* [PDFFlow](https://www.pdfflow.io) - Cross-platform C# library for creating PDF documents using easy fluent syntax.
 
 ### Operating System
 * [CosmosOS](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!

@@ -39,6 +39,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [IDE](#ide)
   * [Internationalization](#internationalization)
   * [IOC](#ioc)
+  * [JavaScript Engines](#javascript-engines)
   * [Logging](#logging)
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
   * [Mail](#mail)
@@ -459,6 +460,9 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - Easy, flexible, and fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
 * [Stashbox](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 * [Unity](https://github.com/unitycontainer/unity) - A lightweight, extensible dependency injection container.
+
+### JavaScript Engines
+* [YantraJS](https://github.com/yantrajs/yantra) - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
 
 ### Logging
 * [common-logging](https://github.com/net-commons/common-logging) - Portable logging abstraction for .NET.

@@ -506,6 +506,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SendGrid Client](https://github.com/0xdeafcafe/sendgrid-dotnet) - C# library for the SendGrid v3 mail endpoint.
 * [SmtpServer](https://github.com/cosullivan/SmtpServer) - Library to create your own SMTP server.
 * [StrongGrid](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+* [Mail Dispatcher Core](https://github.com/neurospeech/mail-dispatcher-core) - Authenticated Smtp Relay Service (SES clone) with domain keys, email queue with retry and notifications.
 
 ### Mathematics
 * [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework.
@@ -673,6 +674,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [NCrontab](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
 * [quartznet](https://github.com/quartznet/quartznet/) - Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
 * [stateless](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
+* [Eternity Framework](https://github.com/neurospeech/eternity) - Persistent long running workflows with ability to suspend and replay the workflow in future. Unit Testable, Simple API, Scheduable C# Methods, External Events, Mobile ready.
 
 ### SDKs
 * [AWS SDK](https://github.com/aws/aws-sdk-net) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.

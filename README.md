@@ -654,6 +654,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 * [Restbus](http://restbus.org) - Messaging library for RabbitMq.
 * [Silverback](https://github.com/BEagle1984/silverback) - Framework to build event-driven applications (support for Kafka, RabbitMQ, MQTT).
+* [SlimMessageBus](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transport plugins for popular messaging systems (Kafka, Azure Service Bus, Event Hubs, Redis, In-Memory, KubeMQ, GCP, AWS, Pulsar).
 * [Tossit](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
 ### Reporting

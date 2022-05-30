@@ -63,6 +63,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Web Socket](#web-socket)
   * [Windows Service](#windows-service)
   * [Workflow](#workflow)
+  * [Source Generator](#source-generator)
 * [Roadmaps](#roadmaps)
 * [Starter Kits](#starter-kits)
 * [Sample Projects](#sample-projects)
@@ -830,6 +831,10 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) - Component that adds workflow in your application.
 * [Wexflow](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
 
+### Source Generator
+* [Supernova.Enum.Generators](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
+ 
+ 
 ## Roadmaps
 * [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.
 

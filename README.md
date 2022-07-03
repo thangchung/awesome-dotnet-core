@@ -272,6 +272,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SimpleContent](https://github.com/joeaudette/cloudscribe.SimpleContent) - Simple, yet flexible content and blog engine for ASP.NET Core that can work with or without a database.
 * [Squidex](https://github.com/Squidex/squidex) - Headless CMS, based on MongoDB, CQRS and Event Sourcing.
 * [Swastika I/O Core CMS](https://github.com/Swastika-IO/Swastika-IO-Core) - Open source ASP.NET Core 2.x CMS. It currently supports MS SQL and planned to implement MSSQL, SQLite in the near future. It has many built-in features out of the box like multilanguage support, theme, template...
+* [Umbraco](https://github.com/umbraco/umbraco-cms) - An extensible and friendly Open source ASP.NET Core CMS
 * [Weapsy](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
 * [Wyam](https://github.com/Wyamio/Wyam) - Modular static content and static site generator.
 * [ZKEACMS](https://github.com/SeriaWei/ZKEACMS.Core) - Visual design, build site onlie by drag and drop.
@@ -531,9 +532,10 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [DinkToPdf](https://github.com/rdvojmoc/DinkToPdf) - C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
 * [dotnet-env](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files.
 * [DotNet.Glob](https://github.com/dazinator/DotNet.Glob) - A fast globbing library for .NET / .NETStandard applications. Outperforms Regex.
-* [Dotnet outdated](https://github.com/jerriep/dotnet-outdated) - A .NET Core global tool to display outdated NuGet packages in a project.
+* [Dotnet outdated](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to display and update outdated NuGet packages in a project
 * [Dotnet Script](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
 * [Dotnet Serve](https://github.com/natemcmaster/dotnet-serve) - Simple command-line HTTP server for .NET Core CLI.
+* [Downloader](https://github.com/bezzad/Downloader) - Downloader is a modern, fluent, asynchronous, testable and portable library for .NET. This is a multipart downloader with asynchronous progress events.
 * [Eighty](https://github.com/benjamin-hodgson/Eighty) - A simple HTML generation library
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 * [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - Fast ExpressionTree compiler to delegate.
@@ -586,6 +588,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [CurlThin](https://github.com/stil/CurlThin) - Lightweight cURL binding library for C# with support for multiple simultaneous transfers through curl_multi interface.
 * [NETStandard.HttpListener](https://github.com/StefH/NETStandard.HttpListener) - HttpListener for .NET Core (NETStandard).
 * [Networker](https://github.com/MarkioE/Networker) - A simple to use TCP and UDP networking library for .NET, designed to be flexible, scalable and FAST.
+* [SharpPcap](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
 
 ### Office
 * [EPPlus](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.
@@ -652,6 +655,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [RawRabbit](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
 * [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 * [Restbus](http://restbus.org) - Messaging library for RabbitMq.
+* [Silverback](https://github.com/BEagle1984/silverback) - Framework to build event-driven applications (support for Kafka, RabbitMQ, MQTT).
 * [Tossit](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
 ### Reporting
@@ -848,6 +852,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ## Sample Projects
 * Microservices & Service Mesh
+  * [clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet) - Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain
   * [coolstore-microservices ](https://github.com/vietnam-devs/coolstore-microservices) - A Kubernetes-based polyglot microservices application with Istio service mesh
   * [distributed-playground](https://github.com/jvandevelde/distributed-playground) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core.
   * [DNC-DShop](https://github.com/devmentors) - Distributed .NET Core project and free course. (DDD, CQRS, RabbitMQ, MongoDB, Redis, Monitoring, Logging, CI, CD)

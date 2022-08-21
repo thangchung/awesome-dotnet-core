@@ -301,6 +301,7 @@ Follows best practices and conventions to provide you a SOLID development experi
   	* [Prometheus.Client.AspNetCore](https://github.com/PrometheusClientNet/Prometheus.Client.AspNetCore) -  Middleware for the Prometheus.Client.
   	* [Prometheus.Client.MetricServer](https://github.com/PrometheusClientNet/Prometheus.Client.MetricServer) -  MetricServer for the Prometheus.Client.
   	* [Prometheus.Client.HttpRequestDurations](https://github.com/PrometheusClientNet/Prometheus.Client.HttpRequestDurations) -  Metrics logging of request durations for the Prometheus.Client.
+  * [WebBen](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server. 
 
 ### Compression
 * [lz4net](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - Ultra fast compression algorithm for all .NET platforms.

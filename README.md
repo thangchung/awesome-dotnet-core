@@ -380,6 +380,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [OpenTracing](https://github.com/opentracing/opentracing-csharp) - Vendor-neutral APIs and instrumentation for distributed tracing
 * [Polly](https://github.com/App-vNext/Polly) - .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner
 * [ProxyKit](https://github.com/damianh/ProxyKit) - Toolkit to create code-first HTTP reverse proxies on ASP.NET Core
+* [OpenTelemetry](https://github.com/open-telemetry)Formed through a merger of the OpenTracing and OpenCensus, is a collection of tools, APIs, and SDKs. Use it to instrument, generate, collect, and export telemetry data
 
 ### E-Commerce and Payments
 * [nopCommerce](https://github.com/nopSolutions/nopCommerce) - Free open-source ecommerce shopping cart (ASP.NET MVC / ASP.NET Core MVC ) with a vast community and a market place full of new features, themes and plugins.

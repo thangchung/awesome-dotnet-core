@@ -731,6 +731,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [TinyCsvParser](https://github.com/bytefish/TinyCsvParser) - Easy to use, easy to extend and high-performance library for CSV parsing with .NET.
 * [Wire](https://github.com/rogeralsing/Wire) - Binary serializer for POCO objects.
 * [YamlDotNet](https://github.com/aaubry/YamlDotNet) - .NET
+* [YamlDotNet.System.Text.Json](https://github.com/IvanJosipovic/YamlDotNet.System.Text.Json) - Allows YamlDotNet to de/serialize System.Text.Json objects
 * [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) - Fast binary (de)serializer for .NET.
 * [Utf8Json](https://github.com/neuecc/Utf8Json) - Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
 * [YAXLib](https://github.com/sinairv/YAXLib) - XML Serialization Library for the .NET Framework and .NET Core. Extremely flexible and powerful.

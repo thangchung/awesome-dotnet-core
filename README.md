@@ -220,6 +220,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Bot
 * [BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+* [NadekoBot](https://gitlab.com/Kwoth/nadekobot) - Open source, general-purpose Discord chat bot written in C#.
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
 * [Funogram](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
 

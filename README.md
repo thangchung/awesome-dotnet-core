@@ -956,7 +956,6 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [The sound of .NET](http://thesoundof.net/?q=.NET+Core)
 
 ## Community
-* [.NET Foundation](http://forums.dotnetfoundation.org)
 * [.NET Blog](https://devblogs.microsoft.com/dotnet/)
 * [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
 * [ASP.NET](https://forums.asp.net)

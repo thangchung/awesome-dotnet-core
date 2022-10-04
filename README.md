@@ -930,6 +930,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [ASP.NET Core Application Development: Building an application in four sprints (Developer Reference)](https://www.amazon.com/ASP-NET-Core-Application-Development-application/dp/1509304061)
 * [ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action)
 * [ASP.NET Core in Action, Second Edition](https://www.manning.com/books/asp-net-core-in-action-second-edition)
+* [ASP.NET Core in Action, Third Edition](https://www.manning.com/books/asp-net-core-in-action-third-edition)
 * [ASP.NET Core Security](https://www.manning.com/books/asp-net-core-security)
 * [ASP.NET Core 1.0 High Performance](https://www.amazon.com/ASP-NET-Core-1-0-High-Performance/dp/1785881892)
 * [Blazor in Action](https://www.manning.com/books/blazor-in-action)

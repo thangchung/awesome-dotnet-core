@@ -307,6 +307,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [sharpcompress](https://github.com/adamhathcock/sharpcompress) - Fully managed C# library to deal with many compression types and formats.
 
 ### Compilers, Transpilers and Languages
+* [Backlang](https://www.backlang.org/) - An open-source programming language for .net
 * [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 * [fparsec](https://github.com/stephan-tolksdorf/fparsec) - A parser combinatory library for F# and C#.
 * [IL2C](https://github.com/kekyo/IL2C) - A translator for ECMA-335 CIL/MSIL to C language.
@@ -829,6 +830,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) - Component that adds workflow in your application.
 * [Wexflow](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
+* [Elsa](https://github.com/elsa-workflows/elsa-core) - A modular workflow engine with workflow designer
 
 ## Roadmaps
 * [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.

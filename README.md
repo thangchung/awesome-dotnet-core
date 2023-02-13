@@ -832,6 +832,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ## Roadmaps
 * [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.
+* [ASP.NET Core Developer Roadmap](https://roadmap.sh/aspnet-core) - Complete guide in becoming an ASP.NET Core Developer.
 
 ## Starter Kits
 * [Arch](https://github.com/Arch) - The collection of .NET Core libraries that are created by software architects who embrace all the new stuff in .NET Core.

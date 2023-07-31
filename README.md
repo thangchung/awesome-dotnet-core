@@ -120,6 +120,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Swashbuckle.AspNetCore.Filters](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - A bunch of useful filters for Swashbuckle.AspNetCore.
 * [WebAnchor](https://github.com/mattiasnordqvist/Web-Anchor) - Web Anchor provides type-safe, testable and flexible, runtime-generated access to web resources.
 * [WebAPIContrib for ASP.NET CORE](https://github.com/WebApiContrib/WebAPIContrib.Core) - Community Contributions for ASP.NET Core.
+* [SignalGo](https://github.com/SignalGo) - SignalGo is a library for Cross-Platform developers that makes it incredibly simple and easy to add real-time web functionality to your applications.
 
 ### Application Frameworks
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate is a general purpose application framework especially designed for new modern web applications. It uses already familiar tools and implements best practices around them to provide you a SOLID development experience.
@@ -819,6 +820,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SuperSocket](https://github.com/kerryjiang/SuperSocket) - Light weight, cross platform and extensible socket server application framework.
 * [WampSharp](https://github.com/Code-Sharp/WampSharp) - C# implementation of [The Web Application Messaging Protocol](http://wamp-proto.org/) - Protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
 * [websocket-manager](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core.
+* [SignalGo](https://github.com/SignalGo) - SignalGo is a library for Cross-Platform developers that makes it incredibly simple and easy to add real-time web functionality to your applications.
 
 ### Windows Service
 * [dotnet-win32-service](https://github.com/dasMulli/dotnet-win32-service) - Set up and run as Windows Service directly from .NET Core.

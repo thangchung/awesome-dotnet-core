@@ -34,6 +34,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Exceptions](#exceptions)
   * [Functional Programming](#functional-programming)
+  * [Game](#game)
   * [Graphics](#graphics)
   * [GUI](#gui)
   * [IDE](#ide)
@@ -410,6 +411,9 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
 * [Qactive](https://github.com/RxDave/Qactive) - Reactive queryable observable framework. `4.x.x or above`
 * [sodium](https://github.com/SodiumFRP/sodium/tree/master/) - Functional Reactive Programming (FRP) Library. `4.x.x or above`
+
+### Game
+* [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
 ### Graphics
 * [GLFWDotNet](https://github.com/smack0007/GLFWDotNet) - .NET bindings for GLFW.

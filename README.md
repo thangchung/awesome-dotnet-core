@@ -287,6 +287,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * Metrics
   * [AppMetrics](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health.
   * [Audit.NET](https://github.com/thepirat000/Audit.NET) - Small framework to audit .NET object changes.
+  * [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
   * [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
   * [coverlet](https://github.com/tonerdo/coverlet) - Cross platform code coverage library for .NET Core.
   * [Foundatio](https://github.com/exceptionless/Foundatio#metrics) - A common interface with in memory, redis, StatsD, and Metrics.NET implementations.

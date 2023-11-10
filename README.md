@@ -240,6 +240,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Nuke](https://github.com/nuke-build/nuke) - Cross-platform build automation system.
 * [Opserver](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System.
 * [vsts-agent](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services Build and Release Agent.
+* [ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C#!
 
 ### Bundling and Minification
 * [BundlerMinifier](https://github.com/madskristensen/BundlerMinifier) - Visual Studio extension that let's you configure bundling and minification of JS, CSS and HTML files.

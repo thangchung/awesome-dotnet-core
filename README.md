@@ -463,6 +463,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 ### Logging
 * [common-logging](https://github.com/net-commons/common-logging) - Portable logging abstraction for .NET.
 * [dnxcore-logging-logstash](https://github.com/jvandevelde/dnxcore-logging-logstash) - Logstash logging extension for .NET Core applications with UDP and Redis transports.
+* [Elmah.Io.Client](https://github.com/elmahio/Elmah.Io.Client) - .NET client for elmah.io.
 * [ElmahCore](https://github.com/ElmahCore/ElmahCore) - Error logging library that includes features like error filtering and the ability to view the error log from a web page.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 * [Foundatio](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application.

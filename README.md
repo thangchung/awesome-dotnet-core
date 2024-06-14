@@ -639,6 +639,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SqlKata](https://github.com/sqlkata/querybuilder) - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 
 ### Queue and Messaging
+* [AsyncMonolith](https://github.com/Timmoth/AsyncMonolith) - Facilitates simple asynchronous messaging in dotnet apps.
 * [emitter](https://emitter.io/) - Free open source real-time messaging service that connects all devices. This publish-subscribe messaging API is built for speed and security.
 * [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ.
 * [EventStore](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript.

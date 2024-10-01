@@ -747,6 +747,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Scriban](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET.
 
 ### Testing
+* [ArchUnitNET](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
 * [Atata](https://github.com/atata-framework/atata) - Web UI test automation full-featured framework based on Selenium WebDriver. [https://atata.io](https://atata.io)
 * [Bogus](https://github.com/bchavez/Bogus) - Simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 * [CoreBDD](https://github.com/stevenknox/CoreBDD) - BDD framework for xUnit.net

@@ -386,6 +386,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [GrandNode](https://github.com/grandnode/grandnode) - Multi-platform, free, open source ecommerce shopping cart based on ASP.NET Core 2.1 and MongoDB derived from [nopCommerce](https://github.com/nopSolutions/nopCommerce).
 * [PayPal](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs.
 * [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - Super simple ecommerce system built on .NET Core.
+* [Smartstore](https://github.com/smartstore/Smartstore) - Free, open source, full-featured multi-platform e-commerce solution based on ASP.NET Core 6 and Entity Framework, easy to extend, extremely flexible and ultra fast.
 * [Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs.
 
 

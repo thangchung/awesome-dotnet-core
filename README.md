@@ -745,6 +745,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Razor](https://github.com/aspnet/Razor) - Parser and code generator for CSHTML files used in view pages for MVC web apps.
 * [RazorLight](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core.
 * [Scriban](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET.
+* [Morestachio](https://github.com/JPVenson/morestachio) - A full sized {{mustache}} like template engine with focus on extendibility.
 
 ### Testing
 * [Atata](https://github.com/atata-framework/atata) - Web UI test automation full-featured framework based on Selenium WebDriver. [https://atata.io](https://atata.io)

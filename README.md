@@ -518,6 +518,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [AspNetCore Extension Library](https://github.com/sgjsakura/AspNetCore) - ASP.NET Core Extension Library.
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - Convention-based object-object mapper in .NET.
 * [Baget](https://github.com/loic-sharma/BaGet) - A lightweight NuGet server.
+* [BamButz.MSBuild.TailwindCSS](https://github.com/BamButz/msbuild-tailwindcss) - Adds a build action to process stylesheets through postcss/tailwind
 * [Bleak](https://github.com/Akaion/Bleak) - A Windows native DLL injection library.
 * [Bullseye](https://github.com/adamralph/bullseye/) - A .NET package for describing and running targets and their dependencies.
 * [Castle.Core](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter [http://www.castleproject.org](http://www.castleproject.org).

@@ -7,6 +7,8 @@ namespace AwesomeDotNetCore
         private static void Main(string[] args)
         {
             Console.WriteLine("This is C# repository.");
+
+            Console.WriteLine("This is C# repository.");
         }
     }
 }

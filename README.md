@@ -760,6 +760,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - Fluent testing
   framework for ASP.NET Core MVC.
 * [Netling](https://github.com/hallatore/Netling) - Load tester client for easy web testing.
+* [NotifyPropertyChanged.Verifier](https://github.com/Sankra/NotifyPropertyChanged.Verifier) - Fluent extension of xUnit for testing implementations of INotifyPropertyChanged in ViewModels.
 * [NSpec](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
 * [NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking frameworks.
 * [nunit](https://github.com/nunit/dotnet-test-nunit) - NUnit test runner for .NET Core.

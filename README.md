@@ -39,6 +39,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [IDE](#ide)
   * [Internationalization](#internationalization)
   * [IOC](#ioc)
+  * [JavaScript Engines](#javascript-engines)
   * [Logging](#logging)
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
   * [Mail](#mail)
@@ -460,6 +461,9 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Stashbox](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 * [Unity](https://github.com/unitycontainer/unity) - A lightweight, extensible dependency injection container.
 
+### JavaScript Engines
+* [YantraJS](https://github.com/yantrajs/yantra) - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
+
 ### Logging
 * [common-logging](https://github.com/net-commons/common-logging) - Portable logging abstraction for .NET.
 * [dnxcore-logging-logstash](https://github.com/jvandevelde/dnxcore-logging-logstash) - Logstash logging extension for .NET Core applications with UDP and Redis transports.
@@ -502,6 +506,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SendGrid Client](https://github.com/0xdeafcafe/sendgrid-dotnet) - C# library for the SendGrid v3 mail endpoint.
 * [SmtpServer](https://github.com/cosullivan/SmtpServer) - Library to create your own SMTP server.
 * [StrongGrid](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+* [Mail Dispatcher Core](https://github.com/neurospeech/mail-dispatcher-core) - Authenticated Smtp Relay Service (SES clone) with domain keys, email queue with retry and notifications.
 
 ### Mathematics
 * [AutoDiff](https://github.com/alexshtf/autodiff) - A library that provides fast, accurate and automatic differentiation (computes derivative / gradient) of mathematical functions.
@@ -672,6 +677,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [NCrontab](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
 * [quartznet](https://github.com/quartznet/quartznet/) - Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
 * [stateless](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
+* [Eternity Framework](https://github.com/neurospeech/eternity) - Persistent long running workflows with ability to suspend and replay the workflow in future. Unit Testable, Simple API, Scheduable C# Methods, External Events, Mobile ready.
 
 ### SDKs
 * [AWS SDK](https://github.com/aws/aws-sdk-net) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.

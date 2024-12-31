@@ -254,6 +254,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
 * [Microsoft Caching](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
 * [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - High performance general purpose redis client for .NET languages (C# etc).
+* [HybridCache](https://github.com/dotnet/extensions/tree/main/src/Libraries/Microsoft.Extensions.Caching.Hybrid] - This package contains a concrete implementation of the HybridCache API, simplifying and enhancing cache usage that might previously have been built on top of IDistributedCache
 
 ### CMS
 * [Awesome-CMS-Core](https://github.com/SaiGonSoftware/Awesome-CMS-Core) - Awesome CMS Core is an open source CMS built using ASP.Net Core & ReactJS with module separation concern in mind and provide lastest trend of technology

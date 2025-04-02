@@ -977,6 +977,7 @@ Follows best practices and conventions to provide you a SOLID development experi
   *  [ASP.NET Core 1.0](https://stackoverflow.com/questions/tagged/asp.net-core-1.0)
   *  [Entity Framework Core](https://stackoverflow.com/questions/tagged/entity-framework-core)
 * [Trending .NET repositories on GitHub today](https://github.com/trending?l=csharp)
+* [.NET News](https://www.dotnetnews.co) - Daily newsletter of highly curated C# and .NET programming articles from over 140+ sources.
 
 ## License
 

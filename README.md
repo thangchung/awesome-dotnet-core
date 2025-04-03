@@ -516,6 +516,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [AngleSharp](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
 * [AgileMapper](https://github.com/agileobjects/AgileMapper) - AgileMapper is a zero-configuration, highly-configurable object-object mapper with viewable execution plans.
 * [AspNetCore Extension Library](https://github.com/sgjsakura/AspNetCore) - ASP.NET Core Extension Library.
+* [Mapster](https://github.com/MapsterMapper/Mapster) - The Mapper of Your Domain, Mapster was designed to be efficient on both speed and memory. You could gain a 4x performance improvement whilst using only 1/3 of memory.
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - Convention-based object-object mapper in .NET.
 * [Baget](https://github.com/loic-sharma/BaGet) - A lightweight NuGet server.
 * [Bleak](https://github.com/Akaion/Bleak) - A Windows native DLL injection library.

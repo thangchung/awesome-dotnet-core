@@ -430,6 +430,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit/) - The Avalonia-based text editor component forked from [AvalonEdit](https://github.com/icsharpcode/AvalonEdit)
  [HandyControls](https://github.com/ghost1372/HandyControls) - Contains some simple and commonly used WPF controls.
 * [Lara](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
+* [OpenSilver](https://github.com/OpenSilver/OpenSilver) - An open source reimplementation of Silverlight; Cross-platform and has a WYSIWYG [editor](https://xaml.io).
 * [ShellProgressBar](https://github.com/Mpdreamz/shellprogressbar) - library to create progress bars in console programs
 * [Qml.Net](https://github.com/pauldotknopf/Qml.Net) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core.
 * [WinApi](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
@@ -803,6 +804,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SmartCode](https://github.com/Ahoo-Wang/SmartCode) – SmartCode= IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including [Code generator])
 * [sourcelink](https://github.com/dotnet/sourcelink) - SourceLink is a language- and source-control agnostic system for providing first-class source debugging experiences for binaries.
 * [System.CommandLine](https://github.com/dotnet/command-line-api) - System.CommandLine, a set of libraries for command line parsing, invocation, and rendering of terminal output.
+* [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - A framework for creating interactive, cross-platform terminal interfaces. Has a WYSIWYG [editor](https://github.com/gui-cs/TerminalGuiDesigner) too. Successor of Gui.cs.
 * [Typin](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
 * [X.Web.Sitemap](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
 * [X.Web.RSS](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core

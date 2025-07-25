@@ -672,6 +672,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [NCrontab](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
 * [quartznet](https://github.com/quartznet/quartznet/) - Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
 * [stateless](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
+* [NaturalCron](https://github.com/hugoj0s3/NaturalCron) – Human-readable scheduling library for .NET using natural-language expressions.
 
 ### SDKs
 * [AWS SDK](https://github.com/aws/aws-sdk-net) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.

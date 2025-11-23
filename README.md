@@ -610,6 +610,7 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [EntityFramework.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues) - Get a proxy object of the original values of your entity (typed access to Property("...").OriginalValue).
   * [EntityFramework.VersionedProperties](https://github.com/NickStrupat/EntityFramework.VersionedProperties) - Classes which auto-magically keep an audit history of the changes to the specified property.
   * [EntityFrameworkCore.SqlServer.SimpleBulks](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported.
+  * [EFCore.Kusto](https://github.com/anasik/EFCore.Kusto) - Entity Framework Core provider for Kusto (Azure Data Explorer)
   * [LINQKit](https://github.com/scottksmith95/LINQKit) - A free set of extensions for LINQ to SQL and Entity Framework power users.
   * [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector.
   * [spectre.query](https://github.com/spectresystems/spectre.query) - A simple query language for Entity Framework Core.

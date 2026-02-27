@@ -445,6 +445,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 ### Internationalization
 * [Localization](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
 * [NetCoreStack.Localization](https://github.com/NetCoreStack/Localization) - Database Resource Localization for .NET Core with Entity Framework and In Memory Cache
+* [Rh.MessageFormat](https://github.com/Rheopyrin/Rh.MessageFormat) - High-performance ICU MessageFormat implementation with full CLDR support for 200+ locales, AOT-compatible, targeting .NET 8+.
 * [Westwind.Globalization](https://github.com/RickStrahl/Westwind.Globalization) - Database driven resource localization for .NET applications.
 
 ### IOC

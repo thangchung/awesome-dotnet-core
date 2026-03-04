@@ -305,6 +305,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 ### Compression
 * [lz4net](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - Ultra fast compression algorithm for all .NET platforms.
 * [sharpcompress](https://github.com/adamhathcock/sharpcompress) - Fully managed C# library to deal with many compression types and formats.
+* [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - Pure C# compression, archive management library.
 
 ### Compilers, Transpilers and Languages
 * [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
@@ -419,6 +420,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Magick.NET](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick.
 * [MagicScaler](https://github.com/saucecontrol/PhotoSauce) - MagicScaler high-performance, high-quality image processing pipeline for .NET
 * [QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation.
+* [ScottPlot](https://scottplot.net/) - A cross-platform plotting library. Supports interactive plots.
 * [SharpBgfx](https://github.com/MikePopoloski/SharpBgfx) - C# bindings for the bgfx graphics library.
 * [Structure.Sketching](https://github.com/JaCraig/Structure.Sketching) - Image processing library for use in .NET applications that supports .NET Core.
 * [veldrid](https://github.com/mellinoe/veldrid) - A low-level, hardware-accelerated 3D graphics library for .NET.

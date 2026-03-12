@@ -307,13 +307,29 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [sharpcompress](https://github.com/adamhathcock/sharpcompress) - Fully managed C# library to deal with many compression types and formats.
 
 ### Compilers, Transpilers and Languages
-* [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 * [fparsec](https://github.com/stephan-tolksdorf/fparsec) - A parser combinatory library for F# and C#.
 * [IL2C](https://github.com/kekyo/IL2C) - A translator for ECMA-335 CIL/MSIL to C language.
-* [Mond](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
-* [peachpie](https://github.com/peachpiecompiler/peachpie) - Open-source PHP compiler to .NET.
+* [ClojureCLR](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR in C#
+* [ClojureCLR Next](https://github.com/dmiller/clojure-clr-next?tab=readme-ov-file) - Rewrite of Clojure CLR in F#
+* [F#](https://github.com/fsharp/fsharp/) - The F# programming language empowers everyone to write succinct, robust, and performant code
+* [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, JSX, Python, Dart, and Rust transpiler
+* [Eiffel](https://www.eiffel.org/doc/solutions/The_Eiffel_for_.NET_language) - Eiffel for .NET is the Eiffel programming language made available in the .NET environment.
+* [Rust](https://github.com/FractalFir/rustc_codegen_clr) - Experimental Rust compiler for .NET.
+* [Wrapped Mono](https://github.com/FractalFir/wrapped_mono) - Mono runtime embedded in Rust. 
+* [Hybridizer](https://www.altimesh.com/hybridizer-essentials/) - CIL (C#, VB.Net, F#, ClojureCLR, ...) to CUDA compiler. **[$]**
+* [IronScheme](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
+* [Mond](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API
+* [Lua-C#](https://github.com/nuskey8/Lua-CSharp) - A Lua implementation on .NET in C#
+* [Nemerle](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented, and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
+* [P](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
+* [PeachPie](https://github.com/peachpiecompiler/peachpie) - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
+* [Roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
+* [PascalABC.NET](https://github.com/pascalabcnet/pascalabcnet) Pascal implementation on .NET.
+* [Iron Python](https://github.com/IronLanguages/ironpython3) - A Python 3 implementation that is integrated with the .NET framework.
+* [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL converter for .NET. Execute compiled Java code (bytecode) on .NET
+* [Lib.Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing, and decorating .NET and Mono methods during runtime, mainly used for game modding.  
+* [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive 
 * [Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow.
-* [roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
 * [Sprache](https://github.com/sprache/Sprache) - Tiny C# Monadic Parser Framework.
 
 ### Cryptography

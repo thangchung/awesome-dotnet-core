@@ -198,6 +198,7 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [IdentityServer4.MongoDB](https://github.com/diogodamiani/IdentityServer4.MongoDB) - MongoDB persistence layer
   * [IdentityServer4.EntityFrameworkCore](https://github.com/2020IP/TwentyTwenty.IdentityServer4.EntityFrameworkCore) - Entity Framework Core persistence layer
   * [IdentityServer4.Templates](https://github.com/IdentityServer/IdentityServer4.Templates) - dotnet cli templates for IdentityServer4.
+* [Logto](https://github.com/logto-io/csharp) - Build authentication and authorization with Logto .NET Core SDKs
 * [Okta](https://github.com/okta/okta-aspnet) - Hosted, enterprise-grade platform for modern identity.
 * [openiddict](https://github.com/openiddict/openiddict-core) - Easy-to-use OpenID Connect server for ASP.NET Core.
   * [oidc-debugger](https://github.com/nbarbettini/oidc-debugger) - OAuth 2.0 and OpenID Connect debugging tool.

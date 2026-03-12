@@ -934,6 +934,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ## Books
 * [.NET Core in Action](https://manning.com/books/dotnet-core-in-action)
+* [.NET for Java developers](https://dotnet.microsoft.com/en-us/campaigns/dotnet-for-java-developers)
 * [ASP.NET Core Application Development: Building an application in four sprints (Developer Reference)](https://www.amazon.com/ASP-NET-Core-Application-Development-application/dp/1509304061)
 * [ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action)
 * [ASP.NET Core 1.0 High Performance](https://www.amazon.com/ASP-NET-Core-1-0-High-Performance/dp/1785881892)

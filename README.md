@@ -187,6 +187,8 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [QuickApp](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
 * [Serenity](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC / TypeScript application platform designed to simplify and shorten development of data-centric business applications with a service based architecture.
 * [Toucan](https://github.com/mrellipse/toucan) - Boilerplate for building single page apps. Server is multi-project .Net Core solution designed around SOLID principles. Client is TypeScript 2, Vuejs 2, Vuex 2.
+* [ASP Dot NET Core Admin Dashboard](https://themeselection.com/item/category/asp-net-dashboard/) - Production-ready, easy-to-use, and highly customizable ASP.NET Core Admin Dashboard Template which offers everything you need to build modern, eye-catching and responsive Dote NET web apps in no time.
+
 
 ### Authentication and Authorization
 * [AspNet.Security.OpenIdConnect.Server](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.

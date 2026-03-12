@@ -349,6 +349,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [ravendb](https://github.com/ayende/ravendb/tree/v4.0) - Linq enabled document database for .NET.
 * [RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver) - C#/.NET RethinkDB driver with 100% ReQL API coverage.
 * [progaudi.tarantool](https://github.com/progaudi/progaudi.tarantool) - .NET client for Tarantool NoSql database.
+* [apache/pulsar-dotpulsar](https://github.com/apache/pulsar-dotpulsar) - The official .NET client library for Apache Pulsar.
 
 ### Database Tools and Utilities
 * [DbUp](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.

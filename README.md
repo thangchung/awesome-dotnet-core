@@ -587,6 +587,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [NETStandard.HttpListener](https://github.com/StefH/NETStandard.HttpListener) - HttpListener for .NET Core (NETStandard).
 * [Networker](https://github.com/MarkioE/Networker) - A simple to use TCP and UDP networking library for .NET, designed to be flexible, scalable and FAST.
 * [SharpPcap](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
+* [SimplestLoadBalancer] (https://github.com/mlhpdx/SimplestLoadBalancer) - Sessionless/stateless UDP load balancer that evenly distributes packets to back-end targets, and with low-latency target management (add and remove).
 
 ### Office
 * [EPPlus](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.

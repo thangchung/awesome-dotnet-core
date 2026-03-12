@@ -563,6 +563,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Remote.Linq](https://github.com/6bee/Remote.Linq) - Remote Linq is a small and easy to use - yet very powerful - library to translate LINQ expression trees to strongly typed, serializable expression trees and vice versa.
 * [ReverseMarkdown](https://github.com/mysticmind/reversemarkdown-net) - Html to Markdown converter library.
 * [PdfReport.Core](https://github.com/VahidN/PdfReport.Core) - PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core libraries.
+* [PromptCLI](https://github.com/lyzerk/PromptCLI) - PromptCLI is inspired from inquirer.js and enquirer.js. It is a interactive command line interface library.
 * [Scientist](https://github.com/github/Scientist.net) - .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library.
 * [Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 * [Sheller](https://github.com/twitchax/Sheller) - A .NET library that makes shelling out commands super easy and fluent.

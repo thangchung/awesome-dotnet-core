@@ -510,6 +510,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Media
 * [MetadataExtractor](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts metadata from media (images, video, audio) with a simple to use API.
+* [Stream-ripper](https://github.com/amir734jj/Stream-ripper) - IceCast stream ripper with a very simple to use API
 
 ### Misc
 * [AdvanceDLSupport](https://github.com/Firwood-Software/AdvanceDLSupport) - Library to improve P/Invoke-ing native code. Interact with native objects as if they were first class objects.

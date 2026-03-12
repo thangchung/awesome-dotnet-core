@@ -305,6 +305,8 @@ Follows best practices and conventions to provide you a SOLID development experi
 ### Compression
 * [lz4net](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - Ultra fast compression algorithm for all .NET platforms.
 * [sharpcompress](https://github.com/adamhathcock/sharpcompress) - Fully managed C# library to deal with many compression types and formats.
+* [ZstdNet] (https://github.com/skbkontur/ZstdNet) Zstd, short for Zstandard, is a fast lossless compression algorithm
+* [Zstandard.Net] (https://github.com/bp74/Zstandard.Net) Zstandard is a real-time compression algorithm
 
 ### Compilers, Transpilers and Languages
 * [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
@@ -715,6 +717,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SearchExtensions](https://github.com/ninjanye/SearchExtensions) - Advanced search capabilities for IQueryable interfaces, such as Entity Framework queries.
 * [SimMetrics.Net](https://github.com/StefH/SimMetrics.Net) - A Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman)
 * [SolrExpress](https://github.com/solr-express/solr-express) - Simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way.
+* [Apache Lucene.NET] (https://github.com/apache/lucenenet) - Apache Lucene.NET is a .NET full-text search engine framework, a C# port of the popular Apache Lucene project.
 
 ### Serialization
 * [BinarySerializer](https://github.com/jefffhaynes/BinarySerializer) - Serialization for custom packet and protocol formats, supports bit-twiddling.

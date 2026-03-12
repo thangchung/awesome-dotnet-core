@@ -928,6 +928,8 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [ASP.NET Core 2.0 Authentication and Authorization System Demystified](https://digitalmccullough.com/posts/aspnetcore-auth-system-demystified.html)
   * [A walk-through for an ASP.NET Authorization Lab](https://github.com/blowdart/AspNetAuthorizationWorkshop)
   * [Authentication in ASP.NET Core](https://stormpath.com/blog/authentication-asp-net-core)
+  * [Debugging OpenID Connect claim problems in ASP.NET Core](https://nestenius.se/2023/03/28/missing-openid-connect-claims-in-asp-net-core/)
+  * [Troubleshooting JwtBearer authentication problems in ASP.NET Core](https://nestenius.se/2023/02/21/troubleshooting-jwtbearer-authentication-problems-in-asp-net-core/)
 * Testing
   * [Selenium with .NET Core](http://www.dotnetcatch.com/2016/11/23/selenium-with-net-core/)
 - [InfoQ .NET articles](https://www.infoq.com/dotnet) -  Collection of best .NET articles on InfoQ site

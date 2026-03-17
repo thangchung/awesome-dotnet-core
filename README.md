@@ -413,6 +413,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Graphics
 * [GLFWDotNet](https://github.com/smack0007/GLFWDotNet) - .NET bindings for GLFW.
+* [ImageMinify](https://github.com/Moresl/ImageMinify) - Lightweight batch image compression tool supporting JPEG/PNG/WebP, built with WPF + ImageSharp.
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - A fluent wrapper around System.Drawing for the processing of image files [http://imageprocessor.org](http://imageprocessor.org). `4.5.x or above`
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) - Cross-platform library for processing of image files written in C#.
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp): .NET/Mono bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.

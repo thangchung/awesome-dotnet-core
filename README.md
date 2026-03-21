@@ -195,7 +195,6 @@ Follows best practices and conventions to provide you a SOLID development experi
   Collection of .NET Aspire hosting integrations and helpers for GCP PubSub, 
   Cloud Storage, Gotenberg, Keycloak, Mailpit, MongoDB, RabbitMQ, Redis and WireMock.
 
-
 ### Authentication and Authorization
 * [AspNet.Security.OpenIdConnect.Server](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
 * [Auth0](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.

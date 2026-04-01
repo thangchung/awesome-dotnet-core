@@ -691,6 +691,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [octokit.net](https://github.com/octokit/octokit.net) - GitHub API client library for .NET.
 * [PreStorm](https://github.com/jshirota/PreStorm) - Parallel REST Client for ArcGIS Server.
 * [SendGrid-csharp](https://github.com/sendgrid/sendgrid-csharp) - C# client library for using the full SendGrid API.
+* [ShopSavvy SDK](https://github.com/shopsavvy/sdk-csharp) - Official .NET SDK for the ShopSavvy product data and price comparison API.
 * [statsd-csharp-client](https://github.com/Pereingo/statsd-csharp-client) - .NET Standard compatible C# client to interface with Etsy's excellent [statsd](https://github.com/etsy/statsd) server.
 * [tweetinvi](https://github.com/linvi/tweetinvi) - Intuitive .NET C# library to access the Twitter REST and STREAM API.
 

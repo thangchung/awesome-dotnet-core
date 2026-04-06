@@ -8,6 +8,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 Check out my [blog](https://dev.to/thangchung) or say hi on [Twitter](https://twitter.com/thangchung)!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for .NET Core multi-agent orchestration, automated service coordination, and quality validation. MIT licensed.
 ## Contents
 
 * [General](#general)

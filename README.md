@@ -83,6 +83,7 @@ Check out my [blog](https://dev.to/thangchung) or say hi on [Twitter](https://tw
 
 ## Frameworks, Libraries and Tools
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=thangchung_awesome-dotnet-core) - Social feed for GitHub. Follow developers, discover trending repos, activity feeds.
 ### API
 
 * [autorest](https://github.com/Azure/autorest) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`

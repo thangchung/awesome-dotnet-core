@@ -637,6 +637,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [MiniProfiler](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites.
 
 ### Query Builders
+* [DynamicWhere.ex](https://github.com/Sajadh92/DynamicWhere.ex) - JSON-driven dynamic query builder for Entity Framework Core. Filter, sort, paginate, project, group, aggregate, and run UNION/INTERSECT/EXCEPT from a JSON body. .NET 6/7/8/9. [Docs](https://doc.dynamicwhere.com)
 * [SqlKata](https://github.com/sqlkata/querybuilder) - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 
 ### Queue and Messaging

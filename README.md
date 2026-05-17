@@ -696,6 +696,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Security
 * [aspnetcore-security-headers](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
+* [EfCore.TamperEvident](https://github.com/furkiak/EfCore.TamperEvident) - A zero-trust, tamper-evident audit logging library for EF Core using cryptographic hash chaining and SMTP anchoring to detect database tampering.
 * [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
 * [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
 * [Jwt.Net](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.

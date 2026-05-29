@@ -189,6 +189,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Toucan](https://github.com/mrellipse/toucan) - Boilerplate for building single page apps. Server is multi-project .Net Core solution designed around SOLID principles. Client is TypeScript 2, Vuejs 2, Vuex 2.
 
 ### Authentication and Authorization
+* [Abblix OIDC Server](https://github.com/Abblix/Oidc.Server) - OpenID Foundation-certified OpenID Connect and OAuth 2.0 server framework for ASP.NET Core.
 * [AspNet.Security.OpenIdConnect.Server](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
 * [Auth0](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
 * [Casbin.NET](https://github.com/casbin-net/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in C#

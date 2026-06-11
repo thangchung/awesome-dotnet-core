@@ -488,6 +488,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Spreads](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
 * [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages.
 * [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - itmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+* [Wickra](https://github.com/wickra-lib/wickra) - Streaming-first technical-analysis library with 514 O(1)-per-tick indicators; Rust-backed, available on NuGet.
 * [SiaNet](https://github.com/SciSharp/SiaNet) - A C# deep learning library, human friendly, CUDA/OpenCL supported, well structured, easy to extend 
 
 ### Mail

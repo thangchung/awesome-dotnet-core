@@ -396,6 +396,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Sentry](https://github.com/getsentry/sentry-dotnet) - .NET SDK for Sentry, an Open-source error tracking that helps developers monitor and fix crashes in real time.
 
 ### Functional Programming
+* [Bogoware.Monads](https://github.com/bogoware/Monads) - Result and Maybe monads for railway-oriented functional error handling and safe optional values.
 * [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.
 * [DynamicData](https://github.com/RolandPheasant/DynamicData) - Reactive collections based on Rx.NET.
 * [echo-process](https://github.com/louthy/echo-process) - Actor library for C# with additional modules that support persistence to Redis, as well as JS integration.

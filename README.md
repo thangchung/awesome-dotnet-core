@@ -33,6 +33,7 @@ Check out my [blog](https://dev.to/thangchung) or say hi on [Twitter](https://tw
   * [Distributed Computing](#distributed-computing)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Exceptions](#exceptions)
+  * [Feature Management](#feature-management)
   * [Functional Programming](#functional-programming)
   * [Graphics](#graphics)
   * [GUI](#gui)
@@ -394,6 +395,10 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 * [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) - GlobalExceptionHandlerDotNet allows you to configure exception handling as a convention with your ASP.NET Core application pipeline as opposed to explicitly handling them within each controller action.
 * [Sentry](https://github.com/getsentry/sentry-dotnet) - .NET SDK for Sentry, an Open-source error tracking that helps developers monitor and fix crashes in real time.
+
+### Feature Management
+* [Microsoft.FeatureManagement](https://github.com/microsoft/FeatureManagement-Dotnet) - This library provides a way to develop and expose application functionality based on feature flags. It enables scenarios like new feature rollouts and A/B testing for experimentation purposes. It also provides integration with common .NET coding patterns and ASP.NET Core.
+* [FeatureFlags.app](https://featureflags.app) - FeatureFlags.app is a privacy-first cloud agnostic feature flag management platform built to integrate with .NET feature management libraries. Safely release features, control rollouts, and manage application behavior without redeploying code, while keeping your data private and your infrastructure under your control.
 
 ### Functional Programming
 * [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.

@@ -672,6 +672,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [NCrontab](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
 * [quartznet](https://github.com/quartznet/quartznet/) - Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
 * [stateless](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
+* [Milvaion](https://github.com/Milvasoft/milvaion) - Distributed job scheduler for .NET with stateless workers and a real-time dashboard for runtime job management. Also provides dashboard monitoring for Hangfire and Quartz.NET. [Website](https://www.milvaion.com) · [Documentation](https://portal.milvasoft.com/docs/1.0.1/open-source-libs/milvaion/milvaion-doc-guide)
 
 ### SDKs
 * [AWS SDK](https://github.com/aws/aws-sdk-net) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.

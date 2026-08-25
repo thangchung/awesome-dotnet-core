@@ -696,6 +696,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Security
 * [aspnetcore-security-headers](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
+* [CapMonsterCloud.DotNet](https://github.com/CapMonsterCloud/capmonster-dotnet-captcha-solver) - C# client library for automated CAPTCHA solving (Cloudflare Turnstile, reCAPTCHA, GeeTest, Image) via CapMonster Cloud API.
 * [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
 * [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
 * [Jwt.Net](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.

@@ -775,7 +775,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 ### Tools
 * [CliFx](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
 * [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET Core and .NET Framework.
-* [DevProjex](https://github.com/Avazbek22/DevProjex) - Open-source .NET/Avalonia GUI and CLI for building clean, AI-ready project context with folder trees, file contents, token counting, Smart Ignore, preview and multi-format export.
+* [DevProjex](https://github.com/Avazbek22/DevProjex) - Cross-platform .NET/Avalonia codebase-context suite with GUI, TUI, CLI, and a built-in read-only MCP server using the official C# MCP SDK.
 * [docfx](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects [http://dotnet.github.io/docfx](http://dotnet.github.io/docfx)
 * [dotnetfiddle](https://dotnetfiddle.net) - .NET sandbox for developers to quickly try out code and share code snippets.
 * [dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tool extensions for .NET Core Command Line (dotnet CLI).

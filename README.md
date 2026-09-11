@@ -252,6 +252,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [EasyCaching](https://github.com/dotnetcore/EasyCaching) - Open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier.
 * [Faster](https://github.com/Microsoft/FASTER/tree/master/cs) - Fast key-value store from Microsoft Research.
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
+* [HybridCache.Plus](https://github.com/sagasta/HybridCachePlus) - High-performance .NET 10 extensions for HybridCache featuring Roslyn source-generated invalidation, Redis Pub/Sub L1 backplane, and isolated multi-tenant L2 routing.
 * [Microsoft Caching](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
 * [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - High performance general purpose redis client for .NET languages (C# etc).
 

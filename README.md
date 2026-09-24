@@ -749,6 +749,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 ### Testing
 * [Atata](https://github.com/atata-framework/atata) - Web UI test automation full-featured framework based on Selenium WebDriver. [https://atata.io](https://atata.io)
 * [Bogus](https://github.com/bchavez/Bogus) - Simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+* [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Checksum-valid financial and identity test data generator (IBAN MOD-97, Luhn cards, TCKN, ISIN), plus real registered BIC/SWIFT codes. No native .NET SDK, but usable via its REST API.
 * [CoreBDD](https://github.com/stevenknox/CoreBDD) - BDD framework for xUnit.net
 * [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET.
 * [FluentAssertions](https://github.com/fluentassertions/fluentassertions) - Set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.

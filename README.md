@@ -591,6 +591,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 ### Office
 * [EPPlus](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.
 * [npoi](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
+* [OfficeAgent.NET](https://github.com/ilia-sokolov/OfficeAgent.NET) - Inspect and edit Word, PowerPoint, and Excel files through typed, validated edit plans, with real Word tracked changes and an MCP server for AI agents.
 * [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
 
 ### Operating System

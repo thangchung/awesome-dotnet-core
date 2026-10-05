@@ -383,7 +383,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### E-Commerce and Payments
 * [nopCommerce](https://github.com/nopSolutions/nopCommerce) - Free open-source ecommerce shopping cart (ASP.NET MVC / ASP.NET Core MVC ) with a vast community and a market place full of new features, themes and plugins.
-* [GrandNode](https://github.com/grandnode/grandnode) - Multi-platform, free, open source ecommerce shopping cart based on ASP.NET Core 2.1 and MongoDB derived from [nopCommerce](https://github.com/nopSolutions/nopCommerce).
+* [GrandNode](https://github.com/grandnode/grandnode2) - Open-source e-commerce platform for .NET 10 and MongoDB: multi-store, multi-vendor marketplace, B2B/B2C, headless REST API, Vue 3 storefront, Docker.
 * [PayPal](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs.
 * [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - Super simple ecommerce system built on .NET Core.
 * [Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs.

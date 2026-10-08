@@ -32,6 +32,7 @@ Check out my [blog](https://dev.to/thangchung) or say hi on [Twitter](https://tw
   * [Date and Time](#date-and-time)
   * [Distributed Computing](#distributed-computing)
   * [E-Commerce and Payments](#e-commerce-and-payments)
+  * [Entitlements](#entitlements)
   * [Exceptions](#exceptions)
   * [Functional Programming](#functional-programming)
   * [Graphics](#graphics)
@@ -388,6 +389,9 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - Super simple ecommerce system built on .NET Core.
 * [Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs.
 
+
+### Entitlements
+* [Subscrio](https://github.com/subscrio/subscrio-dotnet) - Embedded .NET entitlement engine for application feature access, numeric limits, and customer overrides, with PostgreSQL and SQL Server support.
 
 ### Exceptions
 * [Demystifier](https://github.com/benaadams/Ben.Demystifier) - High performance understanding for stack traces (Make error logs more productive).

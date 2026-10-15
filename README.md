@@ -614,7 +614,8 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector.
   * [spectre.query](https://github.com/spectresystems/spectre.query) - A simple query language for Entity Framework Core.
 * [Dapper](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
-  * [Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
+  * [Dapper-FluentMap](https://github.com/rodri-oliveira-dev/Dapper-FluentMap) - Provides a fluent, strongly typed API for mapping .NET object properties to database columns when using Dapper.
+  * [Dapper.FluentMap.Dommel](https://github.com/rodri-oliveira-dev/Dapper-FluentMap) - Integrates Dapper.FluentMap with Dommel, enabling fluent entity mappings for CRUD operations.
   * [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
   * [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper.
 * [FreeSql](https://github.com/2881099/FreeSql) - a convenient ORM in dotnet,supports Mysql, Postgresql, SqlServer, Oracle and Sqlite.

@@ -670,6 +670,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [HangfireIO](https://github.com/HangfireIO/Hangfire) - Easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
 * [LiquidState](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET.
 * [NCrontab](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
+* [NexJob](https://github.com/oluciano/NexJob) - Background job scheduler and runner for .NET with native async/await, priority queues, and pluggable storage providers.
 * [quartznet](https://github.com/quartznet/quartznet/) - Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
 * [stateless](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
 

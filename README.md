@@ -828,6 +828,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Topshelf](https://github.com/Topshelf/Topshelf) - Easy service hosting framework for building Windows services using .NET.
 
 ### Workflow
+* [Centazio](https://github.com/PicNet/Centazio) - Data integration, workflow and master data platform for .NET developers.
 * [CoreWF](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
 * [workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) - Component that adds workflow in your application.

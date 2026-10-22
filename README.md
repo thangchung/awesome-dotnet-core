@@ -613,6 +613,7 @@ Follows best practices and conventions to provide you a SOLID development experi
   * [LINQKit](https://github.com/scottksmith95/LINQKit) - A free set of extensions for LINQ to SQL and Entity Framework power users.
   * [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector.
   * [spectre.query](https://github.com/spectresystems/spectre.query) - A simple query language for Entity Framework Core.
+  * [Aumerial.EntityFrameworkCore](https://www.nuget.org/packages/Aumerial.EntityFrameworkCore) - Entity Framework Core provider for IBM i (Db2 for i, AS/400, iSeries), built on the fully managed NTi Data Provider. [Doc](https://www.documentation.aumerial.com/entity-framework/ef-core) [Free trial](https://portal.aumerial.com)
 * [Dapper](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
   * [Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
   * [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.

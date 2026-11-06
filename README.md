@@ -505,6 +505,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Mathematics
 * [AutoDiff](https://github.com/alexshtf/autodiff) - A library that provides fast, accurate and automatic differentiation (computes derivative / gradient) of mathematical functions.
+* [CardinalityEstimation](https://github.com/saguiitay/CardinalityEstimation) - C# library for memory-efficient estimation of distinct element counts using HyperLogLog.
 * [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework.
 * [UnitsNet](https://github.com/angularsen/UnitsNet) - Units.NET gives you all the common units of measurement and the conversions between them.
 

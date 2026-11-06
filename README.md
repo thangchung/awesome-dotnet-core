@@ -587,6 +587,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [NETStandard.HttpListener](https://github.com/StefH/NETStandard.HttpListener) - HttpListener for .NET Core (NETStandard).
 * [Networker](https://github.com/MarkioE/Networker) - A simple to use TCP and UDP networking library for .NET, designed to be flexible, scalable and FAST.
 * [SharpPcap](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
+* [WebDAVClient](https://github.com/saguiitay/WebDAVClient) - WebDAV client library for .NET 8 and .NET 10 with asynchronous folder listings, file transfers and remote file management.
 
 ### Office
 * [EPPlus](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.

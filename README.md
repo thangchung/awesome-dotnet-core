@@ -428,6 +428,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [AdonisUI](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced windows visuals.
 * [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 * [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit/) - The Avalonia-based text editor component forked from [AvalonEdit](https://github.com/icsharpcode/AvalonEdit)
+* [eQuantic.UI](https://github.com/eQuantic/equantic-ui) - Write UI components once in C#: compiled to JavaScript for the web, with no WebAssembly, and drawn by its own GPU engine on macOS, iOS, Android and Windows.
  [HandyControls](https://github.com/ghost1372/HandyControls) - Contains some simple and commonly used WPF controls.
 * [Lara](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
 * [ShellProgressBar](https://github.com/Mpdreamz/shellprogressbar) - library to create progress bars in console programs

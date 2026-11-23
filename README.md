@@ -325,6 +325,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SecurityDriven.Inferno](github.com/sdrapkin/SecurityDriven.Inferno) - Hig level crypto library used .Net primitives, has been professionally audited.
 
 ### Database
+* [DataVo](https://github.com/ArintonAkos/DataVo-DBMS) - Embedded in-process SQL and vector database engine in managed C# with LSM storage, columnar indexes, HNSW vector search, and Native AOT support.
 * [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
 * [JsonFlatFileDataStore](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data.
 * [LiteDB](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file - [http://www.litedb.org](http://www.litedb.org).
